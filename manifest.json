@@ -1,0 +1,281 @@
+{
+  "generated_at": "2026-06-27T22:09:30Z",
+  "artifacts": [
+    {
+      "name": "Latest_List.zip",
+      "size": 50644048
+    },
+    {
+      "name": "abuse.txt",
+      "size": 9426494
+    },
+    {
+      "name": "adobe.txt",
+      "size": 8446
+    },
+    {
+      "name": "ads.txt",
+      "size": 3719906
+    },
+    {
+      "name": "adult1.txt",
+      "size": 94371822
+    },
+    {
+      "name": "adult2.txt",
+      "size": 31239426
+    },
+    {
+      "name": "ai.txt",
+      "size": 943
+    },
+    {
+      "name": "app_updates.txt",
+      "size": 891
+    },
+    {
+      "name": "astrology.txt",
+      "size": 540
+    },
+    {
+      "name": "audio_video_streaming.txt",
+      "size": 69654
+    },
+    {
+      "name": "banking_finance.txt",
+      "size": 109979
+    },
+    {
+      "name": "bitcoin_crypto.txt",
+      "size": 668814
+    },
+    {
+      "name": "blog.txt",
+      "size": 24486
+    },
+    {
+      "name": "bluesky.txt",
+      "size": 48
+    },
+    {
+      "name": "celebrity.txt",
+      "size": 12864
+    },
+    {
+      "name": "chat.txt",
+      "size": 4410
+    },
+    {
+      "name": "cheat.txt",
+      "size": 3711
+    },
+    {
+      "name": "code_development.txt",
+      "size": 39
+    },
+    {
+      "name": "cooking.txt",
+      "size": 706
+    },
+    {
+      "name": "dangerous_materials.txt",
+      "size": 1316
+    },
+    {
+      "name": "dating.txt",
+      "size": 115227
+    },
+    {
+      "name": "ddos_network_attacks.txt",
+      "size": 7432
+    },
+    {
+      "name": "discord.txt",
+      "size": 48
+    },
+    {
+      "name": "dns_over_http.txt",
+      "size": 103750
+    },
+    {
+      "name": "downloads_file_hosting.txt",
+      "size": 113244
+    },
+    {
+      "name": "drugs.txt",
+      "size": 513254
+    },
+    {
+      "name": "dynamic_dns.txt",
+      "size": 27606
+    },
+    {
+      "name": "educational_games.txt",
+      "size": 253
+    },
+    {
+      "name": "facebook.txt",
+      "size": 757546
+    },
+    {
+      "name": "fake_news.txt",
+      "size": 22960
+    },
+    {
+      "name": "fortnite.txt",
+      "size": 301
+    },
+    {
+      "name": "forums.txt",
+      "size": 3668
+    },
+    {
+      "name": "gambling.txt",
+      "size": 664819
+    },
+    {
+      "name": "games.txt",
+      "size": 607390
+    },
+    {
+      "name": "hacking_fraud.txt",
+      "size": 4389422
+    },
+    {
+      "name": "instagram.txt",
+      "size": 81
+    },
+    {
+      "name": "job_search.txt",
+      "size": 6765
+    },
+    {
+      "name": "malware.txt",
+      "size": 19527181
+    },
+    {
+      "name": "manga.txt",
+      "size": 18276
+    },
+    {
+      "name": "mobile_phone.txt",
+      "size": 898
+    },
+    {
+      "name": "online_tools.txt",
+      "size": 2160598
+    },
+    {
+      "name": "pandora.txt",
+      "size": 113
+    },
+    {
+      "name": "piracy.txt",
+      "size": 106269
+    },
+    {
+      "name": "porn1.txt",
+      "size": 94371839
+    },
+    {
+      "name": "porn2.txt",
+      "size": 31460804
+    },
+    {
+      "name": "press.txt",
+      "size": 83119
+    },
+    {
+      "name": "religion.txt",
+      "size": 18
+    },
+    {
+      "name": "remote_control.txt",
+      "size": 2745
+    },
+    {
+      "name": "scam.txt",
+      "size": 23805
+    },
+    {
+      "name": "school_productivity.txt",
+      "size": 758
+    },
+    {
+      "name": "sexedu.txt",
+      "size": 612
+    },
+    {
+      "name": "shopping.txt",
+      "size": 632702
+    },
+    {
+      "name": "smart_tv.txt",
+      "size": 1880
+    },
+    {
+      "name": "social_media.txt",
+      "size": 9546
+    },
+    {
+      "name": "sports.txt",
+      "size": 38239
+    },
+    {
+      "name": "spotify.txt",
+      "size": 59
+    },
+    {
+      "name": "tech_general.txt",
+      "size": 2645
+    },
+    {
+      "name": "texas_dir_prohibited.txt",
+      "size": 822
+    },
+    {
+      "name": "tiktok.txt",
+      "size": 95777
+    },
+    {
+      "name": "translation.txt",
+      "size": 3525
+    },
+    {
+      "name": "twitch.txt",
+      "size": 33
+    },
+    {
+      "name": "twitter.txt",
+      "size": 28433
+    },
+    {
+      "name": "usa_foreign_adversaries.txt",
+      "size": 55
+    },
+    {
+      "name": "usa_state_sponsors_terrorism.txt",
+      "size": 49
+    },
+    {
+      "name": "vpn.txt",
+      "size": 200045
+    },
+    {
+      "name": "web_hosting.txt",
+      "size": 351
+    },
+    {
+      "name": "webmail.txt",
+      "size": 6410
+    },
+    {
+      "name": "whatsapp.txt",
+      "size": 6280
+    },
+    {
+      "name": "youtube.txt",
+      "size": 857864
+    }
+  ]
+}
