@@ -2,11 +2,10 @@
 amiuptodate.com
 archive.ubuntu.com
 avira-update.com
-ccleaner.tools.avcdn.net/tools/ccleaner/update/patches.ini
-ccleaner.tools.avcdn.net/tools/ccleaner/update/updates.xml
+ccleaner.tools.avcdn.net
 componentupdater.brave.com
 download.gfe.nvidia.com
-edgedl.me.gvt1.com/edgedl/delta-update
+edgedl.me.gvt1.com
 emupdate.avcdn.net
 fe2.update.microsoft.com
 fe2cr.update.microsoft.com

@@ -1,14 +1,19 @@
 # Web Hosting
+000webhostapp.com
 airtable.com
 amplifyapp.com
+appwrite.network
 b12sites.com
 cloudworkstations.dev
+e-studiob.com
 ewp.live
+flywheelsites.com
 framer.website
 glitch.me
 grwebsite.fr
 hocoos.com
 hosting-test.net
+infinityfreeapp.com
 ipfs.dweb.link
 multiscreensite.com
 mypixieset.com
@@ -20,8 +25,12 @@ r2.dev
 replit.app
 rocketcdn.me
 softr.app
+statichost.page
+sviluppo.host
+tripod.com
 vercel.app
 vsble.me
 webflow.io
 webhostbox.net
 weebly.com
+weweb.io

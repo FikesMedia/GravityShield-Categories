@@ -10,7 +10,7 @@ blinkogold.fr
 bouyguestelecom.gameloft.com
 breizhmobile.com
 clemobile.com
-cri.univ-tlse1.fr/tools/test_filtrage/mobile-phone/
+cri.univ-tlse1.fr
 cricketwireless.com
 forfaitfree.com
 kko-mobile.com
@@ -32,7 +32,7 @@ mobiwin.com
 nrjmobile.fr
 persomobiles.fr
 planetesms.com
-sfr.fr/mobile
+sfr.fr
 smartphonefrance.info
 smsgratuit.com
 sonnerie-compositeur.com

@@ -8601,6 +8601,7 @@ catpool.io
 catspool.org
 cawcwpvmpcje.com
 cayunbtc.com
+cb-128943.com
 cb.alimama.cn
 cb.baidu.com
 cb.l.qq.com
@@ -8968,7 +8969,7 @@ cjprndsozzdu.bid
 cjroq.bealge.sogou.com
 cjxdbmxtnqmy.com
 ck.houyi.baofeng.net
-ck.kolivas.org/apps/cgminer/
+ck.kolivas.org
 ckc.dnb.io
 ckfctuaga.com
 ckjdnyvcop.bid
@@ -9447,7 +9448,7 @@ communitypool.org
 communitypool.stellite.ca
 comp.minertopia.org
 compool.net
-computriks.com/fr/category/bitcoin
+computriks.com
 comseeder.miningspeed.com
 con.pool.mn
 conc.pool.mn
@@ -10189,7 +10190,7 @@ daggerpool.com
 dagqnyapwql.bid
 dahakbkwgvwzb.bid
 daill.somec.cc
-daily-investment-deals-now.com/bitcoin-trader
+daily-investment-deals-now.com
 dailylog.storm.baofeng.com
 dajiyuan.com
 dajiyuan.org
@@ -15859,7 +15860,7 @@ hush.zhash.pro
 hushmine.pro
 hushpool.cloud
 husky.suprnova.cc
-husnulkhoir.sch.id/12
+husnulkhoir.sch.id
 hustlepool.co
 hutkuzwropgf.com
 huxwvqkdkc.bid
@@ -18037,7 +18038,7 @@ ludwmwca.bid
 lugknllg.bid
 luhqeqaypvmc.com
 luihhjhe.bid
-luke.dashjr.org/programs/bitcoin
+luke.dashjr.org
 luketherock868.com
 lumanajaska.ml
 lumanex.org
@@ -24222,9 +24223,8 @@ secure.img-cdn.mediaplex.com
 secure.mbkpool.info
 secure.qp.si
 securecoin.miningpoolhub.com
-securedailywealth.com/bitcoinpro/
-securedailywealth.com/the-bitcoin-era/
-securelyriches.com/bitcoin-revolution
+securedailywealth.com
+securelyriches.com
 securenode.miningspeed.com
 securepayment.cc
 securepubads.g.doubleclick.net
@@ -34704,3 +34704,4 @@ zzqnkezokbegc.bid
 zzvjaqnkq.bid
 zzwzjidz.bid
 zzy1.quyaoya.com
+zzzthxsyvbzk.cf

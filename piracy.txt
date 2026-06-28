@@ -10,7 +10,7 @@
 0daycn.net
 0second.com
 100-postal2.blogspot.com
-109.238.9.3/torrent
+109.238.9.3
 10mbit.com
 123bits.org
 1337.abcvg.info
@@ -116,7 +116,7 @@ aarcoiris.us
 aarinfantasy.edwardk.info
 abandon5000.com
 abbaspc.net
-abclan.com/hack/
+abclan.com
 abcvg.info
 abetterplace2b.com
 abetterplace2b.org
@@ -198,7 +198,7 @@ anbudom.net
 android-igry.net
 ang3lv2.org
 angel-torrents.info
-angelfire.com/un/lucasferrand
+angelfire.com
 angelleye.no-ip.com
 anidb.info
 anidex.moe
@@ -729,6 +729,7 @@ cdie.cdie.free.fr
 cdkeysgames.com
 cdn-novflix.com
 cdn.retget.ru
+cdn1vipcanaistv.site
 cdownloaderz522.cf
 ceasers-palace.info
 celtikmt2.altervista.org
@@ -915,7 +916,7 @@ crazysaloon.com
 crazytorrent.eu
 creative-bits.org
 crete-tracker.com
-cri.univ-tlse1.fr/tools/test_filtrage/warez/
+cri.univ-tlse1.fr
 cricfree.sx
 crnaberza.com
 cronus.spaceports.com
@@ -1428,6 +1429,7 @@ flixflux.co.uk
 flixhd.org
 flixster.com
 flixtor.me
+flixxcine.app
 flmsdown.net
 flux-gamer.org
 flywarez.com
@@ -1724,6 +1726,7 @@ hawklord.myftp.org
 haxxx.net
 haykowarez.ru
 haze.kicks-ass.org
+hazeflix.com
 hbwarez.com
 hd-bits.ro
 hd-dream.net
@@ -1807,7 +1810,7 @@ hitsfilms.net
 hlusoe.info
 hobby-hacker.com
 hollabackonline.com
-home.graffiti.net/lucasferrand
+home.graffiti.net
 homemadeporntorrents.com
 hongfire.com
 horrorcharnel.kicks-ass.org
@@ -1830,6 +1833,12 @@ hunterbt.com
 hunterbtsex.com
 hunttorrent.org
 hwarez.com
+hypeflix.biz
+hypeflix.bond
+hypeflix.club
+hypeflix.ink
+hypeflix.vip
+hypeflix.watch
 hypertor.com
 hypertorrent.com
 i-139.b-45505.ut.bench.utorrent.com
@@ -1854,7 +1863,7 @@ idmdownload.info
 idmserialkeycrack.com
 idope.hair
 idope.unblocked.llc
-ifrance.com/gogocracks
+ifrance.com
 ignition-board.c.la
 ikkyonline.com
 iktin.ru
@@ -1876,6 +1885,8 @@ immortalseed.com
 imodzone.net
 imoim.app
 imost.com
+imperiofilmes.com
+imperiofilmes.org
 impulsive.hu
 imtorrents.com
 imzdl.com
@@ -2008,7 +2019,7 @@ kickassunblock.com
 kickassunblock.info
 kickme.to
 kickmedown.com
-kidiwi.com/lucasferrand
+kidiwi.com
 kidsbits.org
 kikken.org
 killawaves.org
@@ -2232,7 +2243,7 @@ megacanaisonline.me
 megadownloadz.com
 megafiletube.unblocked.llc
 megafilmes.co
-megagames.com/pc-fixes
+megagames.com
 megahfilmeshd.net
 meganova.org
 megasearch.unblocked.llc
@@ -2253,9 +2264,7 @@ megfilm.lv
 melen.net
 melomaniacos.com
 members.shaw.ca
-membres.lycos.fr/lucasferrand
-membres.lycos.fr/pifoman/
-membres.lycos.fr/swat45/
+membres.lycos.fr
 memsware.com
 mes-ddl.com
 mes-meilleurs-films.fr
@@ -2471,6 +2480,7 @@ nbastream.nu
 nbastreams.to
 ncore.cc
 ncore.hu
+ncore.pro
 ndwarez.com
 neko-sama.fr
 nemesis09.com
@@ -2503,6 +2513,7 @@ newvoyages.mine.nu
 newzbin.com
 newzleech.com
 nextwap.net
+nexusgames.to
 nflixvod.me
 nflstreams.to
 nfodb.com
@@ -2649,6 +2660,7 @@ ntorrent.yoyo.pl
 ntorrents.net
 ntrace.in
 nulledhome.com
+nullforums.net
 nutorrent.com
 nw0.info
 nxbrew.com
@@ -2781,7 +2793,7 @@ pentagonchannel.mil
 pentratewebfilters.info
 perfectddl.com
 pernatik.ru
-perso.wanadoo.fr/jean-paul.cecchini
+perso.wanadoo.fr
 peruwarez.net
 petaleech.com
 peteteo.com
@@ -3129,6 +3141,7 @@ s93146559.onlinehome.us
 sabotase99.blogspot.com
 sabotase99.blogspot.in
 sadisflix.net
+safe123movies.top
 safepeer.info
 said-59.blogspot.com
 saimair.ru
@@ -3208,6 +3221,7 @@ seedforspeed.com
 seedgames.org
 seedit.org
 seedler.org
+seedoff.net
 seedpeer.com
 seedpeer.eu
 seedpeer.me
@@ -3318,7 +3332,7 @@ siluhd.com
 silvercdn.ryukyu
 sinister.ly
 siscate.com.ar
-site-de-streaming.com/wawacity
+site-de-streaming.com
 sitewebco.info
 sjcrack.com
 skidrow-games.com
@@ -3710,7 +3724,6 @@ theswarm.me
 thetorrentsource.org
 thetracker.org
 thetradersden.org
-thetradersden.org/forums/tracker
 thetrickz.com
 theultimatesoft.blogspot.co.uk
 theultimatesoft.blogspot.com
@@ -3749,6 +3762,7 @@ tollytorrents.com
 toolhip.com
 toonpk.com
 tooziq.com
+top-flix.homes
 top-mega-warez.com
 top-partag.sqweebs.com
 top-serie.org
@@ -4193,7 +4207,7 @@ trancebits.com
 trancebooster.net
 tranceroute.com
 trancetraffic.com
-trancezone.pun.pl/forums.php
+trancezone.pun.pl
 transamrit.net
 transfer-tracker.eu
 transfer.co.hu
@@ -4584,7 +4598,7 @@ watchtvseries.unblckd.bet
 waveride.tk
 waw.4files.net
 wawa-mania.cc
-wawa-mania.eu/warez/
+wawa-mania.eu
 wawa-mania.ws
 wawacity.download
 wawacity.ec

@@ -4363,7 +4363,7 @@ nilfheim.asguardian.de
 ningyan.top
 ninny.duckdns.org
 nitter.ujwie.co
-nixnet.xyz/dns/
+nixnet.xyz
 nl-ams-w-3.nashkan.net
 nl-ams-w-p-1.nashkan.net
 nl-ams.doh.sb

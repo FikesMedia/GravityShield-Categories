@@ -512,7 +512,7 @@
 1008.info
 100abclub.tk
 100cents.info
-100fm6.com/proxy
+100fm6.com
 100index.tk
 100moreadded.info
 100octaneproxyturbo.tk
@@ -2663,7 +2663,7 @@
 132072proxy.tk
 133670proxy.tk
 1337browsing.info
-1337games.net/proxy/
+1337games.net
 1337proxy.co.uk
 1337proxy.net
 1337proxy.org
@@ -15131,7 +15131,7 @@
 207.150.180.70
 207.150.188.42
 207.153.207.172
-207.156.166.165/anonymiser
+207.156.166.165
 207.157.9.179
 207.161.20.188
 207.172.209.89
@@ -15533,7 +15533,7 @@
 208.53.128.215
 208.53.128.216
 208.53.131.140
-208.53.147.202/~regvinfo/
+208.53.147.202
 208.53.154.69
 208.53.158.126
 208.53.158.94
@@ -16790,7 +16790,7 @@
 24unblocker.info
 24usprox.info
 24vpn.info
-24web.mobi/proxy
+24web.mobi
 24x7proxy.tk
 250.com.au
 250.eu
@@ -16947,7 +16947,7 @@
 2hideip.cn
 2ht.info
 2ibeworking.info
-2ip.ru/anonim/
+2ip.ru
 2it.info
 2j24.com
 2j27.com
@@ -17617,6 +17617,7 @@
 3in-one.tk
 3ind.com
 3jeeb4you.net
+3k.pe
 3l3l.net
 3le.ru
 3lm.info
@@ -20532,7 +20533,7 @@
 64.251.30.197
 64.27.0.168
 64.27.17.140
-64.27.4.141/?pagename=www
+64.27.4.141
 64.27.5.168
 64.27.5.172
 64.27.5.179
@@ -20792,7 +20793,7 @@
 66.197.152.21
 66.197.201.37
 66.197.201.70
-66.197.221.187/~unlockwe/
+66.197.221.187
 66.197.237.69
 66.197.252.182
 66.198.41.11
@@ -21171,7 +21172,7 @@
 66.90.101.213
 66.90.101.225
 66.90.103.107
-66.90.103.130/~bypassww
+66.90.103.130
 66.90.103.82
 66.90.104.167
 66.90.104.230
@@ -22368,7 +22369,7 @@
 74.77.117.65
 74.79.165.21
 74.86.24.19
-74.86.47.189/~hidemypr/
+74.86.47.189
 74.91.119.232
 74.93.220.98
 74.95.187.105
@@ -25405,7 +25406,7 @@
 94.23.247.86
 94.23.255.13
 94.23.30.53
-94.23.46.192/filesonic-proxy.php
+94.23.46.192
 94.23.47.5
 94.23.54.12
 94.23.55.63
@@ -26810,7 +26811,7 @@ acetunnel.info
 aceunblocker.com
 aceusoxyip.tk
 acevpn.com
-acewebmedia.com/myspaceproxy
+acewebmedia.com
 acezero.tk
 acfda-forexss.tk
 acfdcmsfx.tk
@@ -27211,7 +27212,7 @@ adfreesurf.biz
 adfreesurf.info
 adguard-vpn.com
 adguard-vpn.online
-adguru.org/proxy
+adguru.org
 adherence.info
 adherforex.co.cc
 adhitama.tk
@@ -28321,7 +28322,7 @@ allthere.info
 alltimeproxy.cf
 alltimeproxy.ga
 alltimetradeip.tk
-alltooflat.com/geeky/elgoog
+alltooflat.com
 allunalock.tk
 allunblock.hu.tl
 allunblock.info
@@ -28604,7 +28605,7 @@ america-vpn.info
 america.nz.gs
 america0anonymotk.tk
 america0anonymotka.tk
-america22.net23.net/index.html/
+america22.net23.net
 americaanonymous.info
 americamyth.tk
 american-footballsite.info
@@ -28873,8 +28874,8 @@ andremoversurfde.tk
 andremoversurfdejust.tk
 andremoversurfdejusts.tk
 andrewbot.com
-andrewtchin.com/proxy/
-andrewville.net/hide
+andrewtchin.com
+andrewville.net
 androbert.tk
 androi4dsurferip.tk
 android-onltkede.tk
@@ -30694,7 +30695,7 @@ aprivacyhider.tk
 aprivatesurf.info
 aprize-wtkner.tk
 aprovecharse.com
-aprovisionar.com/proxy
+aprovisionar.com
 aprox.co.cc
 aprox.us
 aproxi.info
@@ -30871,7 +30872,7 @@ arielturner.com
 arimba.info
 arinxi.info
 arisandisit.co.cc
-aristocrat.ro/proxy
+aristocrat.ro
 arithmeticchannel.tk
 arithmeticmode.tk
 aritmetica.com
@@ -31150,7 +31151,7 @@ aspartam.tk
 aspeedtesttkg.tk
 asphalt4.co.cc
 asphalturban.co.cc
-asphyx.info/proxy.php
+asphyx.info
 aspirationbite.tk
 aspirationmach.tk
 aspire-one.co.cc
@@ -31301,7 +31302,7 @@ ateasely.tk
 atedplace.org
 ateducation28.info
 atefiveto.tk
-atelecards.com/u/onlineproxy.htm
+atelecards.com
 aterm.net
 atershapr.tk
 ateru.info
@@ -32067,7 +32068,7 @@ azipurl.app
 azipurl.com
 azirevpn.com
 aziz9aziz-001-site1.smarterasp.net
-aziz9aziz.hostkda.com/surf.html
+aziz9aziz.hostkda.com
 azlocker.com
 aznproxy.com
 aznq.com
@@ -32412,7 +32413,7 @@ badgoody.tk
 badhabbit.tk
 badhabits.tk
 badinschool.co.cc
-badjasmine.com/proxy
+badjasmine.com
 badmood.tk
 badproxy.info
 badproxy.tk
@@ -33391,7 +33392,7 @@ benewiphone.info
 benfolds.tk
 benignforex.co.cc
 beningan.co.cc
-benji1000.net/familyguy_proxy/
+benji1000.net
 benjimit.com
 benjproxy.tk
 bennd.tk
@@ -34597,7 +34598,7 @@ beyondschool.info
 beyourfirst.tk
 bez.link
 bezpecne-proxy.info
-bezugsquellen.info/anonym-surfen
+bezugsquellen.info
 bf-it.at
 bfay.info
 bfda.info
@@ -35286,7 +35287,7 @@ blackgood.cn
 blackhatproxy.com
 blackhatproxy.tk
 blackhatsurfing.com
-blackhatworld.com/blackhat-seo/f112-proxies-sale/
+blackhatworld.com
 blackherb-info.tk
 blackhidden.info
 blackhidesurf.tk
@@ -35299,7 +35300,7 @@ blackip.info
 blackipad.co.cc
 blackiphone.co.cc
 blackjumping.tk
-blacklance.net/b3r/nph-proxy.cgi
+blacklance.net
 blacklemon.co.cc
 blacklightsociety.com
 blacklistelvoeproxy.ga
@@ -35635,6 +35636,7 @@ blocklearning.co.uk
 blocklessinter9tk.tk
 blocklink.info
 blocklinkbypass.tk
+blocklist.site
 blockmeno.com
 blockmenot.biz
 blockmenot.co.uk
@@ -36407,7 +36409,7 @@ boline.tk
 bolity.top
 boln.info
 bolobolo1.torservers.net
-bolsosybotas.com/proxy
+bolsosybotas.com
 bolstr.online
 boltonuk.info
 boltproxy.com
@@ -36734,7 +36736,7 @@ boundstock.tk
 boungetandes.com
 boupro.com
 bouwplank.co.cc
-boverie.eu/proxy/
+boverie.eu
 bowchiggabowwow.info
 bowfest.live
 bowjo.tk
@@ -36869,7 +36871,7 @@ bramkaproxy.laptopow.com
 bramkaproxy.org
 bramkaproxy.waw.pl
 bramkiproxy.laptopow.com
-bramkiproxy.pdg.pl/b1/
+bramkiproxy.pdg.pl
 branchlibrary.info
 brandablename.co.cc
 branddiagnostics.co.cc
@@ -36878,7 +36880,7 @@ brandedproxy.info
 brandedstoragereview.directory
 brandeex.com
 brandhkis.tk
-brandinimp.com/proxy/
+brandinimp.com
 brandnewproxies.info
 brandnewproxies.net
 brandnewproxy.net
@@ -36921,7 +36923,7 @@ brazilsurf.info
 brazilsurf.tk
 brazilswebsurf.tk
 brazilwebsurf.tk
-brazilworldcupproxybarzagli.cf//
+brazilworldcupproxybarzagli.cf
 brazilworldcupproxycitti234.tk
 brazilworldcupproxyconte291.tk
 brazilworldcupproxygianluigi.tk
@@ -38432,7 +38434,7 @@ buyfr.ga
 buyfr.gq
 buyfr.ml
 buyfr.tk
-buyfrance.info/proxy
+buyfrance.info
 buyfreegift.tk
 buyfutures.tk
 buygiftcard.tk
@@ -40340,7 +40342,7 @@ cat2.biz
 cat3.biz
 cat6.fibersurf.co.cc
 cat9.biz
-catalogoflash.com/proxy
+catalogoflash.com
 catandanonymotka-web.tk
 catbrood.com
 catbuild.tk
@@ -41415,7 +41417,7 @@ choicefuel.info
 choiceproxy.com
 choicesubmissions.com
 choiphatnua.com
-choipop.com/index.php
+choipop.com
 cholforex.info
 cholmondeley.tk
 chomeless.tk
@@ -41738,11 +41740,11 @@ clawface.com
 clawker.tk
 claymore.tk
 claymoreproxy.co.cc
-clbannhau.com/index/index.php
-clbannhau.info/fastproxy
-clbannhau.mobi/fastproxy
-clbannhau.net/index
-clbannhau.org/freeproxy
+clbannhau.com
+clbannhau.info
+clbannhau.mobi
+clbannhau.net
+clbannhau.org
 clck.ru
 cldnbwgylnfq.com
 cle.inforoxyology.com
@@ -42543,7 +42545,7 @@ coathook.info
 coathooks.info
 coatsforitmenow.tk
 coatspecz.com
-coauthor.mobi/proxy
+coauthor.mobi
 coaxialnet.co.cc
 cobaltproxy.info
 cobaltway.info
@@ -42602,7 +42604,7 @@ codesquad.cn
 codesurfing.cf
 codeteam.cn
 codeunblock.info
-codexia.cn/webproxy
+codexia.cn
 codezila.com
 codimenu.com
 codingtalk.net
@@ -42675,7 +42677,7 @@ coldexile.tk
 coldhour.info
 coldlabs.ml
 coldlabs.tk
-coldnano.cn/webproxy
+coldnano.cn
 coldplate.tk
 coldproxy.cn
 coldproxy.com
@@ -42971,7 +42973,7 @@ colorproxy.gq
 colorproxy.us
 colorsoft.info
 colorstv.live
-colortip.cn/free/webproxy/
+colortip.cn
 colorushappy.tk
 colorweb.eu
 colosurf.ed.mu
@@ -43002,7 +43004,7 @@ come-and-enjoy.co.cc
 come-fully.co.cc
 come-n-hide.info
 come-n-surf.info
-come.to/undergroudz
+come.to
 come1st.co.cc
 comeandplay.tk
 comearound.info
@@ -43408,7 +43410,7 @@ constancy2proxies.info
 constancy2proxies5.tk
 constancyproxies-surf.tk
 constantly-improve.co.cc
-consti.de/proxy/
+consti.de
 constrictor.mobi
 constructionvpn.tk
 constructionvpnas.tk
@@ -43624,7 +43626,7 @@ coolnetaccess.info
 coolonline.info
 coolpanda.net
 coolpctablets.info
-coolpokharacity.com/proxy/index.php
+coolpokharacity.com
 coolproksea.info
 coolpromo63.tk
 coolprox.co.uk
@@ -43716,7 +43718,7 @@ corbinbleu.tk
 cordbloodbankproxy.info
 core-online.eu
 core2-proxy.tk
-core2.xan.pl/p/
+core2.xan.pl
 core2proxie.tk
 core4-pro.tk
 core5.info
@@ -44027,7 +44029,7 @@ cph.bz
 cpl.so
 cplay.top
 cplusled.tk
-cpmmasters.com/proxy
+cpmmasters.com
 cpmpro1.cn
 cpr0x.com
 cpr0xy.info
@@ -44181,7 +44183,7 @@ creamcheat.info
 creampipez.co.cc
 creamproxy.info
 creamway.info
-creat2000.com/anonyme
+creat2000.com
 createbuild.tk
 createcrate.tk
 createdomain.co.cc
@@ -44371,10 +44373,7 @@ crewyforextkwebproxy.tk
 crfe.top
 crhemastitophilia.co.cc
 crhs.100webspace.net
-cri.univ-tlse1.fr/tools/test_filtrage/reaffected/
-cri.univ-tlse1.fr/tools/test_filtrage/redirector/
-cri.univ-tlse1.fr/tools/test_filtrage/strict_redirector/
-cri.univ-tlse1.fr/tools/test_filtrage/strong_redirector/
+cri.univ-tlse1.fr
 criaca.com
 cribinst.tk
 crick3t.in
@@ -44784,6 +44783,7 @@ cut.by
 cut.live
 cut.mask.wtf.la
 cut.ovh
+cut2.eu
 cut2.ir
 cut2link.com
 cutblocker.com
@@ -44799,7 +44799,7 @@ cutebutsexy.com
 cutecats.info
 cuteknife.com
 cutelnk.com
-cutencuddly.org/letter/
+cutencuddly.org
 cutenessland.com
 cuteproxy.com
 cutesurf.info
@@ -45223,7 +45223,7 @@ dagt.info
 dahanservice.org
 dahirforex.co.cc
 dahproxy.com
-dahuayule.cn/p/proxy/
+dahuayule.cn
 daili-facebook-you.tk
 daili-forex0.tk
 daili-hacier.tk
@@ -47291,7 +47291,7 @@ doctorwebs.ml
 doctorwebs.tk
 documeno.tk
 documented.mask.wtf.la
-documento.mobi/proxy
+documento.mobi
 doddledi.info
 dodge2u.info
 dodgeautos.info
@@ -47529,7 +47529,7 @@ domainyahooforforex.co.cc
 domainzonebypass.tk
 domany.info
 domath.info
-dombergen.de/raus/
+dombergen.de
 domcc.tk
 domefavor.info
 domenech.info
@@ -47558,7 +47558,7 @@ dominoan.co.cc
 dominus.cz.cc
 domor.cz.cc
 domovoy.cz.cc
-domovskastranka.eu/proxy
+domovskastranka.eu
 domoxy.tk
 domoz.cz.cc
 domroxy.gq
@@ -48321,7 +48321,7 @@ dslrate.tk
 dsltrojan.co.cc
 dsn.io
 dsneak.info
-dsouth.net/anon
+dsouth.net
 dspot.info
 dsproxy.co.cc
 dsre.me
@@ -48607,7 +48607,7 @@ dysthymia.co.cc
 dyuforex.co.cc
 dyulaix.tk
 dyx.is
-dyzer.bs-server.com/prox/index.php
+dyzer.bs-server.com
 dz-proxy.tk
 dzeke.co.cc
 dzhot.us
@@ -49107,7 +49107,7 @@ ebaydomain.tk
 ebayjob.ml
 ebayphotohosting.com
 ebayproxy.info
-ebayranch.com/p
+ebayranch.com
 ebbco.ir
 ebby.info
 ebddeal.tk
@@ -49138,7 +49138,7 @@ ebook-tkproxyys.tk
 ebookbasement.com
 ebookeveryday.net
 ebooks-extreme.com
-ebooks-gratuits.org/proxy
+ebooks-gratuits.org
 ebooktruyen.info
 ebookville.info
 ebookxp-tkproxyys.tk
@@ -49409,6 +49409,7 @@ ehuforex.co.cc
 ehui.info
 ehzproxy.com
 ei9.org
+eid.ee
 eigenaars.com
 eigh.info
 eighbors.tk
@@ -49515,7 +49516,7 @@ elegantup.ml
 elegir.info
 elekidbusiness.info
 elektromercado.com
-elektronica.mobi/proxy
+elektronica.mobi
 elementalproxy.com
 elementaryproxy.tk
 elements-trance.org
@@ -50156,7 +50157,7 @@ epta.info
 eptkphmcknnu.com
 epts.info
 eptz.info
-epwing.cn/webproxy/
+epwing.cn
 epwing.net.cn
 eqcodecracks.life
 eqiqd.tk
@@ -50535,7 +50536,7 @@ euroroxy.gq
 eurosearch.info
 eurosearchfor.info
 euroservers.tk
-eurosmaker.eu/ifr/frproxy.php
+eurosmaker.eu
 eurospanorama.tk
 eurosurfer.tk
 eurotas.co.cc
@@ -50665,7 +50666,7 @@ everysiteaccess.info
 everyspeed.tk
 everything-every.co.cc
 everything-in.co.cc
-everything.free10gb.com/proxy/
+everything.free10gb.com
 everythingdancenow.info
 everythingprox.info
 everythingrom.tk
@@ -50833,7 +50834,7 @@ exercisingussshuk.tk
 exercisingussshuks.tk
 exertforex.co.cc
 exertpeace.tk
-exeware.102hosting.com/click%20here%20to%20bypass%20your%20school%20or%20work%20firewall
+exeware.102hosting.com
 exfi.info
 exforex.co.tv
 exhangeproxy.tk
@@ -51180,7 +51181,7 @@ ezcredit.tk
 ezcreditcards.tk
 ezdaili.com
 ezdecoy.info
-eze-network.net/AnonProxy/
+eze-network.net
 ezeeproxy.com
 ezextrading.tk
 ezexzo.link
@@ -51394,8 +51395,7 @@ facebookaccess.tk
 facebookaccessnow.info
 facebookaccesssite.info
 facebookadvocate.xyz
-facebookasciiart.com/pro
-facebookasciiart.com/proxy/
+facebookasciiart.com
 facebookatschool.com
 facebookattractive.info
 facebookatwork.com
@@ -52869,7 +52869,7 @@ fathertkheaven.tk
 fathusky.com
 fatigon-spirit.tk
 fatimages.com
-fatinfo.com/internet/proxy/
+fatinfo.com
 fatirajabi.info
 fatj.info
 fatlossexercise.info
@@ -52881,7 +52881,7 @@ fatsal5.co.cc
 fatslag.net
 fatsurf.tk
 fattacks.tk
-fatter.mobi/proxy
+fatter.mobi
 fattony.info
 fattyfood.tk
 fatwire.tk
@@ -53043,7 +53043,7 @@ fearlessurfs.tk
 fearlessurfsjav.tk
 fearlessurfsjavs.tk
 fearlyways.tk
-fearofmidgets.com/cgiproxy
+fearofmidgets.com
 fearstock.tk
 featherproxy.com
 featuredpro.info
@@ -53670,13 +53670,7 @@ fimpo.com
 finacialsecurity.tk
 final-choice.co.cc
 final-topzone.tk
-final4ever.com/forumdisplay.php?f=141
-final4ever.com/forumdisplay.php?f=142
-final4ever.com/forumdisplay.php?f=143
-final4ever.com/forumdisplay.php?f=144
-final4ever.com/forumdisplay.php?f=145
-final4ever.com/forumdisplay.php?f=155
-final4ever.com/forumdisplay.php?f=211
+final4ever.com
 finalexamstudy.com
 finalfast.co.cc
 finalhider.info
@@ -54439,7 +54433,7 @@ fknn.net
 fkuforex.co.cc
 fl-y.com
 flacproxy.co.cc
-fladby.org/pr0xy/
+fladby.org
 flagrate.tk
 flagtel.info
 flamenows.tk
@@ -54641,6 +54635,7 @@ flirtteen.yafro.com
 flitools.com
 flizu.tk
 flkoliv.com
+flnk.fr
 floater.tk
 floatingbodys.tk
 flockfan.tk
@@ -56464,7 +56459,7 @@ foxyproxy.cf
 foxyproxy.com
 foxyproxy.ga
 foxyproxy.ml
-foxyproxy.mozdev.org/proxyservice/
+foxyproxy.mozdev.org
 foxyproxy.net
 foxysurf.tk
 foxyupload.com
@@ -56472,7 +56467,7 @@ foxywall.info
 foyy.net
 fozi.info
 fozz.info
-fpfwebhost.com/iprox
+fpfwebhost.com
 fpiu.com
 fpn.firefox.com
 fpoint.info
@@ -56500,7 +56495,7 @@ fr.free4proxy.tv
 fr.pazhan.net
 fr.rolename.info
 fr.rowesofa.info
-fr.search.yahoo.com/images
+fr.search.yahoo.com
 fr.stop-bot.com
 fr.unblockyoutuber.com
 fr.vpnunlock.asia
@@ -58431,7 +58426,7 @@ freesnap.info
 freesneak.info
 freesocialnetworks.info
 freesocialpromo.com
-freesocks5.com/proxies/
+freesocks5.com
 freesocksproxy.org
 freesome.info
 freesonglyrics.me
@@ -58900,8 +58895,7 @@ freewebproxyserver.pw
 freewebproxyserver.top
 freewebproxyservers.us
 freewebproxyunblocksites.info
-freewebs.com/shardizzle_05
-freewebs.com/tarumi
+freewebs.com
 freewebsecure.co.cc
 freewebsite.ga
 freewebsiteip.info
@@ -59394,7 +59388,7 @@ fuckblock.ga
 fuckenbored.co.uk
 fuckenbored.com
 fuckfilter.info
-fuckfilters.com/index.php
+fuckfilters.com
 fuckhost.tk
 fuckinghernow.net
 fucklaw.cf
@@ -59599,7 +59593,7 @@ funkyproxy.info
 funkysite.info
 funkyunblocker.info
 funlines.tk
-funlock.info/hideip.php
+funlock.info
 funlockedbypass.tk
 funlockline.tk
 funlocky.tk
@@ -60127,7 +60121,7 @@ gamer.hu.tl
 gamercard.info
 gamermediadownload.com
 gamers-nor.com
-gamersisland.net/proxy
+gamersisland.net
 gamersurf.tk
 gamerunblock.com
 gamerzchoices.com
@@ -60303,7 +60297,7 @@ gateway.cti-news.com
 gateway.joost.co.uk
 gateway.krashi.nl
 gateway.mw
-gateway.scarpasoftware.net/check2/
+gateway.scarpasoftware.net
 gateway14.tk
 gatewayagent.info
 gatewaybest.tk
@@ -60455,7 +60449,7 @@ geekjoke.info
 geeklatest.info
 geeknetwork.info
 geekone.info
-geekos.cn/proxy/
+geekos.cn
 geekpass.info
 geekprivate.info
 geekprox.tk
@@ -60507,7 +60501,7 @@ gemsurfer.tk
 gemy.link
 gen-pro.tk
 gen11.us
-genc-tr.com/oyun
+genc-tr.com
 gencsite.net
 genderpotion.com
 genebase.mobi
@@ -60580,7 +60574,7 @@ genuisproxy.gq
 genwebpr.tk
 geo101.info
 geobase.tk
-geocities.com/geeprscrew
+geocities.com
 geocitiesj.com
 geoepker.hu
 geofast.info
@@ -61938,7 +61932,7 @@ gofreehost.net
 gofreely.tk
 gofreeproxy.com
 gofriendster.info
-gofunny.com/proxy
+gofunny.com
 gofunny.info
 gofutures.tk
 gogate.info
@@ -62634,7 +62628,7 @@ google.chinaguideblog.com
 google.valledigioia.it
 google2u.info
 googleaffiliate.tk
-googlebig.com/sections/googlebig-http-proxy/
+googlebig.com
 googlebot.si
 googlecodehosting.com
 googlecodehosting.net
@@ -63058,7 +63052,7 @@ gpsloc.info
 gpsprox.info
 gpssurf.ed.mu
 gpssurf.tk
-gpstienda.com/proxy
+gpstienda.com
 gpuforex.co.cc
 gpyew.sbs
 gqqri.top
@@ -63303,7 +63297,7 @@ greatforexrates2.tk
 greatgb.tk
 greathelp.info
 greatholidayshopping.com
-greatitem.com/proxy
+greatitem.com
 greatlake.info
 greatlimit.tk
 greatline.tk
@@ -63636,9 +63630,8 @@ groupmore.tk
 groupons.tk
 grouprai.se
 grouproxfy.tk
-groups.google.com/group/daily-proxy
-groups.google.com/group/daily-web-proxies
-groups.yahoo.com/group/ProxyRoxy/
+groups.google.com
+groups.yahoo.com
 groupsafe.info
 groupsexting.live
 groupslinkbypass.tk
@@ -63685,8 +63678,8 @@ gs4.info
 gscale.tk
 gsdh.info
 gsecret.tk
-gsmlocate.com/proxy
-gsmtracking.mobi/proxy
+gsmlocate.com
+gsmtracking.mobi
 gsmunhide.tk
 gsmvalley.info
 gspots.tk
@@ -63730,7 +63723,7 @@ gtunnel.net
 gu-essla.tk
 gu-ge.biz
 guadelupe.info
-guadix.mobi/proxy
+guadix.mobi
 guanyongma.com
 guar.info
 guarantee-success.co.cc
@@ -63832,7 +63825,7 @@ gungor.somee.com
 gunip.info
 gunja.co.tv
 gunoproxy.tk
-gunshin.net/cgi-bin/nph-proxy.cgi
+gunshin.net
 gunsmoke-freesurf.co.cc
 gunsnproxies.tk
 gunsurf.hu.tl
@@ -63947,7 +63940,7 @@ h0tmlf533.cf
 h0tmlf533.ga
 h0tmlf533.gq
 h0x.org
-h1.ripway.com/tunnels
+h1.ripway.com
 h1934000.stratoserver.net
 h1d3.info
 h1deyourstuff.info
@@ -64041,7 +64034,7 @@ haje.co.cc
 hajikproxy.tk
 hajinfo.tk
 hajproxy.tk
-haker.boo.pl/bramka_proxy/
+haker.boo.pl
 hakiforex.co.cc
 hakpop.info
 halalbuyer.tk
@@ -64140,7 +64133,7 @@ handwill.info
 handyl.tk
 handyproxy.com
 handyshow.tk
-handywebstore.com/proxy
+handywebstore.com
 hane8roid.tk
 hanerunotobira.com
 hanerunotobira.info
@@ -64476,7 +64469,7 @@ hazproxysurf.info
 hazz.info
 hb-0.info
 hb-1.info
-hb-help.com/proxy
+hb-help.com
 hb0.info
 hb00.info
 hb01.info
@@ -67519,7 +67512,7 @@ home-find.xyz
 home-mortgages.tk
 home-online.xyz
 home-webproxy.tk
-home.goofar.com/myworld/
+home.goofar.com
 home.istcommun.info
 home.kaos.to
 home.zonnet.nl
@@ -68112,7 +68105,7 @@ hotsurfnet.tk
 hotsurfree.tk
 hotswiss.net
 hottei.com
-hottest-host.com/youarehidden1
+hottest-host.com
 hottestproxy.info
 hottestweb.info
 hottiez.cn
@@ -68235,7 +68228,7 @@ howto-unblocksites.com
 howto-unblockwebsites.in
 howto-unblockwebsites.info
 howto.pro
-howto9.com/p/blog-page_3.html
+howto9.com
 howtoaccessblockedsites.tk
 howtoaccessblockedsites7.tk
 howtoaccessblockedsitesb.tk
@@ -68320,7 +68313,7 @@ hproxy-ysurfs.tk
 hproxy.info
 hproxy.net
 hpxjl.com
-hqpsy.com/proxy/
+hqpsy.com
 hqqf.com
 hqsee.sbs
 hqstreams7.info
@@ -68398,7 +68391,7 @@ html-stylesheets.tk
 htoad.info
 htoday4proxy.tk
 hts.io
-hts.refoweb.nl/proxy
+hts.refoweb.nl
 httcamp.tk
 htth.info
 http-proxy.cn
@@ -68818,7 +68811,7 @@ i-n-x.com
 i-prox-y.com
 i-prox.info
 i-proxy.info
-i-proxy.net/free-web-proxy.php
+i-proxy.net
 i-proxyweb.info
 i-prsoxysurfa.tk
 i-reland.com
@@ -68852,7 +68845,7 @@ i.thereedpack.net
 i.vcads.com
 i.widefreedom.org
 i.xtracon.com
-i007.in/index1.php
+i007.in
 i13.us
 i15.info
 i2p-projekt.de
@@ -69151,7 +69144,7 @@ ideaproxy-webproxy.tk
 ideastrategy.tk
 idef.info
 idek.net
-idemises.com/omg
+idemises.com
 idencenow-surf8.tk
 idencenow-surfs8.tk
 idencesa-surf8.tk
@@ -69174,7 +69167,7 @@ idet.info
 idevicefan.net
 idfk.lol
 idianproxy.com
-idicon.com.py/foro/
+idicon.com.py
 idiotforex.co.cc
 idiotptp.info
 idisappear.info
@@ -69185,6 +69178,7 @@ idksg.top
 idlawyer.tk
 idlingsafesurf.info
 idlingsafesurf7.tk
+idm.in
 idmail.me
 idmask.com
 idmask.info
@@ -69949,7 +69943,7 @@ infogateway.info
 infohider.info
 infoip.info
 infoiq.net
-infojp.cn/webproxy
+infojp.cn
 infokey.info
 infolot.cn
 infomafia.com
@@ -70258,7 +70252,7 @@ integrationrapid.tk
 integretiesed.co.cc
 intelbuek.co.cc
 intelinschool.info
-intellaffi.eu/proxy
+intellaffi.eu
 intelligentproxy.com
 intellinkual.com
 intelliproxy.com
@@ -71088,7 +71082,7 @@ iphonefunk.com
 iphonegang.info
 iphoneguy.tk
 iphoneled.tk
-iphonemar.com/proxyrif/
+iphonemar.com
 iphoneproxyblock.tk
 iphoneproxys.tk
 iphoneproxyusa.tk
@@ -71773,7 +71767,7 @@ italianprox.info
 italianproxy.appspot.com
 italianproxy.info
 italians.tk
-italie.netne.net/index.html/
+italie.netne.net
 italy.proxysit.es
 italyfacts.info
 italysurf.info
@@ -71888,7 +71882,7 @@ itstheonlyway.info
 itstuesday.co.cc
 itsturbo.info
 itsunblocked.co.vu
-itsvet.sk/proxy
+itsvet.sk
 itsvideo.tk
 itsweapon.cf
 itsweapon.ga
@@ -72079,7 +72073,7 @@ iyoutubespeedlnow.tk
 iyoutubespeedlus.tk
 iyoutubespeedlusa.tk
 izcalculatorreftkancel.tk
-izgal.net/proxy/
+izgal.net
 izhide.com
 izi.su
 izin.info
@@ -72107,7 +72101,7 @@ j7d.info
 j7o.info
 ja-proxys.tk
 ja9.net
-jaadi2.xaa.pl/proxy/
+jaadi2.xaa.pl
 jaawiproxy.tk
 jaaznakum.co.cc
 jabproxy.info
@@ -72245,7 +72239,7 @@ japaneseadsurfsuk.tk
 japaneseadsurfsuks.tk
 japaneseadsurfuk.tk
 japaneseadsurfuks.tk
-japanhits.com/proxy.php
+japanhits.com
 japannice.cf
 japannice.ga
 japannice.ml
@@ -72401,7 +72395,7 @@ jeet.pw
 jeetoonline.in
 jeffbezos.tk
 jeffcohost.com
-jeffssite.us/proxy/site/
+jeffssite.us
 jeffwu.net
 jefison.cn
 jeha.info
@@ -72436,7 +72430,7 @@ jeremyfones.com
 jeremylin.tk
 jergy.info
 jerkface.com
-jerrycode.pl/bramka_proxy/
+jerrycode.pl
 jerrysurf.info
 jerusalemap.tk
 jesse-hall-igan112.life
@@ -72536,7 +72530,7 @@ jhxpc.info
 ji4.info
 ji5.info
 ji9.info
-jianliju.cn/proxy/
+jianliju.cn
 jianquer.tk
 jichuan.info
 jidur.co.cc
@@ -72991,7 +72985,7 @@ jpym.info
 jqkfm.top
 jqroy.com
 jqy6.com
-jrbach.com/cgi-bin/nph-proxy.cgi
+jrbach.com
 jre44.com
 jrnybzn.com
 js-webproxy.tk
@@ -73185,7 +73179,7 @@ justbrowse.tk
 justbsessedde26-proxys.tk
 justbsessedde34-proxys.tk
 justbsessedde65-proxys.tk
-justbux.com/proxy.php
+justbux.com
 justbypass.com
 justclasss.tk
 justclick-surfs.tk
@@ -73435,7 +73429,7 @@ kamouflage.info
 kampen.org
 kampopro.com
 kampz.co.cc
-kamranweb.com/proxy
+kamranweb.com
 kamuflase.info
 kanal7.forumkurdu.com
 kand18.com
@@ -73500,7 +73494,7 @@ kasproxy.cz.cc
 kastrato.tk
 kataklysm.co.cc
 katanaproxy.com
-katavax.com/1/
+katavax.com
 katedrala.cz
 katelynprx.info
 katespadesneakpeek.com
@@ -73892,7 +73886,7 @@ killer-proxy-on-the-loose.tk
 killeranime.com
 killerproxy.com
 killerproxy.net
-killers-hell.com/proxy
+killers-hell.com
 killersurf.co.cc
 killersurf.info
 killersurf.tk
@@ -74025,8 +74019,7 @@ kisproxy.com
 kissa.be
 kissanonymotk.tk
 kissanonymous.info
-kissfree.net/mamproxy
-kissfree.net/myspaceproxy
+kissfree.net
 kisslajos.ingyenweb.hu
 kissloan.gq
 kissloan.ml
@@ -74135,7 +74128,7 @@ knaag.info
 knbay.info
 kncifm.net
 kneereversal.tk
-knez.ru/proxy
+knez.ru
 knf.md
 kni.prz.rzeszow.pl
 knifa.vivator.com
@@ -74256,7 +74249,7 @@ kongfu.tk
 kongproxy.cn
 kongproxy.info
 konidin.co.cc
-konku.bluechiphosting.com/code
+konku.bluechiphosting.com
 konoha-proxy.tk
 konoko.co.cc
 kont.ly
@@ -74292,7 +74285,7 @@ kops.club
 korak-pro.tk
 korakoxy.tk
 korbansalome.tk
-korben.info/une-bonne-grosse-liste-de-proxy-pour-acceder-au-net-sans-censure.html
+korben.info
 korbenproxy.appspot.com
 kore6leased.tk
 korea-premium.kr
@@ -74642,7 +74635,7 @@ ladidadida.info
 ladiesclothes.info
 ladiesproxy.tk
 ladindmchwiya-proweb.tk
-ladova.com/glype/upload/
+ladova.com
 ladreamsbig.life
 ladyclub.cf
 ladyclub.ga
@@ -75308,6 +75301,7 @@ legspreads.tk
 leica.gs
 leit.link
 leitup.com
+lejumo.com
 lekro.com
 lelebo.tk
 lelel.info
@@ -75578,6 +75572,7 @@ lhide.info
 lhotaattacks.tk
 lhrproxy.info
 lhxm.com
+li-nk.net
 lialink.net
 liamond.top
 lianzforex.co.cc
@@ -75889,7 +75884,7 @@ lilwaynebypasser.info
 lily.lt
 limaroki-ifaitsigne-proxy.tk
 limas.info
-limbergorama.eu/proxy/
+limbergorama.eu
 limbuk.co.cc
 limelori.com
 limepr0x.info
@@ -77623,7 +77618,7 @@ lungo.info
 luni.tk
 lunited8-ukproxiesas.tk
 lunk.info
-lunox.nl/proxy
+lunox.nl
 lunwen.com.ru
 lunwenyi.cn
 luol.info
@@ -77694,7 +77689,7 @@ lx9cat-proxy.tk
 lxddck.com
 lxde.tk
 lxpro.info
-lxshop.info/fastproxy
+lxshop.info
 lxso.top
 lxssh-proxyss.tk
 lxssh3-proxyss.tk
@@ -77865,7 +77860,7 @@ madurasa.tk
 maduro.info
 maduro.mobi
 maduse.ml
-madwave.org/proxy/phproxy/
+madwave.org
 maejo.link
 maesa.tk
 mafeng.co.cc
@@ -77967,7 +77962,7 @@ magu.info
 magusnet.com
 magybu.net
 mahbob.fr
-mahikhanonline.com/Private_Web_Proxy
+mahikhanonline.com
 mahinternet.com
 mahiru.info
 mahmoodan.info
@@ -78407,7 +78402,7 @@ marchproxy.ga
 marchproxy.ml
 marchproxy.tk
 marchproxy.xyz
-marcinrodzaj.com/search/
+marcinrodzaj.com
 marcusaurelius.info
 marczone.tk
 mardigras.tk
@@ -78539,7 +78534,7 @@ marvelpennystocksnows.tk
 marvelprox.com
 marvelsurf.tk
 marvelview.info
-marvin-thielking.de/phpproxy/
+marvin-thielking.de
 marvinetc.com
 maryeah.info
 maryland.cz.cc
@@ -78719,8 +78714,8 @@ mastertkdenver-proxyip.tk
 masterunblock.info
 masterunblocker.com
 masterunblocker.org
-masterviewlive.com/proxz
-mastervisit.com/proxy
+masterviewlive.com
+mastervisit.com
 mastitime.info
 masuk-id.info
 masukanghin.co.cc
@@ -78880,7 +78875,7 @@ maxminds.info
 maxmix.info
 maxmoneyfinders.org
 maxoyun.oyunmemo.com
-maxpages.com/000hi
+maxpages.com
 maxprofitforex.info
 maxprotect.net
 maxprox.gq
@@ -79194,7 +79189,7 @@ megacover.info
 megacrazy.info
 megacruiser.tk
 megadancenow.info
-megadeath.info/index.html
+megadeath.info
 megadebrideur.com
 megadescargas.info
 megadll.com
@@ -79567,7 +79562,7 @@ miaproxy.info
 miattwardmlan.tk
 mibbrowser.info
 mibearin.startlogic.com
-mibearings.com/p/proxy/
+mibearings.com
 mibuda.tk
 micachu.info
 micantosh.co.cc
@@ -79781,7 +79776,7 @@ mindfuleat.tk
 mindgood.info
 mindlockproxy.tk
 mindmore.tk
-mindnexus.com/cgi-bin/nph-proxy.cgi
+mindnexus.com
 mindport.tk
 mindproxy.info
 mindsecure.info
@@ -80362,7 +80357,7 @@ mompick.net
 momtouch45.tk
 momtouch45a.tk
 monbroker.tk
-monclovacaliente.com/grabber/
+monclovacaliente.com
 moncos.tk
 monday4-proxy3.tk
 mondaysout.tk
@@ -80669,7 +80664,7 @@ morphfaster.tk
 morphium.info
 morphium.tk
 morrize.info
-morsay.olympe-network.com/p1
+morsay.olympe-network.com
 morsy.ga
 mort5gagerefinancecalculator3.tk
 mort7gagerefinance9.tk
@@ -81082,7 +81077,7 @@ msn-proxy.info
 msnaccess.info
 msnbctv.tk
 msnliving.tk
-msnmailing.com/proxy
+msnmailing.com
 msnproxy.com
 msnproxy.info
 msnsafely.info
@@ -81217,7 +81212,7 @@ multilinkhug.tk
 multimediamail.tk
 multimoney.tk
 multionline.info
-multiplay.co.il/proxy
+multiplay.co.il
 multiple6proxy.tk
 multiplebenefit.tk
 multiplefactorcause.tk
@@ -81300,7 +81295,7 @@ music-elf.info
 music-surf.info
 music-video-finder.info
 music.yosa.org
-musicaldb.com/proxy
+musicaldb.com
 musicalfour.tk
 musicanonymous.info
 musicawards.tk
@@ -81690,7 +81685,7 @@ myeasyaccess.xyz
 myeasydns.info
 myeasypassage.xyz
 myeasyproxy.tk
-myeis.net/proxy
+myeis.net
 myencyclopedia.info
 myencyclopediabritannica.com
 myenter.info
@@ -82882,7 +82877,7 @@ n00bmaster.com
 n0bl0x.info
 n0n.in
 n0trace.tk
-n1ce.com/proxy
+n1ce.com
 n1surfer.ed.mu
 n2h2-besspoxi.info
 n2h2besspoxi.info
@@ -82917,7 +82912,7 @@ nagaspeed.info
 naggingsafesurf.info
 nagp.info
 nah.uy
-nahaju.net/proxy.php
+nahaju.net
 nahy.info
 naifen.net
 naifishincltd.com
@@ -83848,7 +83843,7 @@ newbiegroup.biz
 newbienow.co.cc
 newbiepass.info
 newbiology.info
-newbizsolution.web.id/toll/
+newbizsolution.web.id
 newblog.cf
 newblog.gq
 newbloodproxy.info
@@ -84507,7 +84502,7 @@ ngasaih.co.cc
 ngaum.info
 ngebut.co.cc
 ngecaplambe.tk
-ngecrot.in/proxy/
+ngecrot.in
 ngedrop.co.cc
 ngepet.tk
 ngeu.info
@@ -84535,7 +84530,7 @@ nhoban.com
 nhoc.top
 nhocech.net
 nhocquay.biz
-nhoroscopesa.info/start-using-cgiproxy.html
+nhoroscopesa.info
 nhuanet.com
 nhut.info
 ni.profliste.com
@@ -85086,7 +85081,7 @@ nodrop.tk
 nodsurf.hu.tl
 nodu.info
 noelmagada.live
-noelpower.free.fr/phproxy
+noelpower.free.fr
 noesy.tk
 noeu.info
 noeuz.sbs
@@ -85232,7 +85227,7 @@ nomorenetbans.co.uk
 nomorepath.info
 nomoreseals.info
 nomoresnitch.info
-nomorewall.info/index.php
+nomorewall.info
 nomorewebsense.info
 nomyspace.info
 non-incentive.co.cc
@@ -86316,7 +86311,7 @@ ohio-proxytunnel.co.cc
 ohioclaims.info
 ohioschool.info
 ohkdsplu.com
-ohmmeter.info/proxy
+ohmmeter.info
 ohmy44proxy.tk
 ohmy4proxy.tk
 ohmyfacebook.tk
@@ -87145,7 +87140,7 @@ onproxy3giorgio.cf
 onproxy4giorgio.tk
 onproxyalbertoteve.ml
 onproxyandrea1.ml
-onproxyangelo.cf//
+onproxyangelo.cf
 onproxybon009.ga
 onproxybouys.ga
 onproxycarlos.cf
@@ -88170,7 +88165,7 @@ outcash.info
 outcastnet.info
 outdoorgear.tk
 outdoorproxy.com
-outdoorsfree.com/proxy
+outdoorsfree.com
 outdoorsofa.info
 outeniqua.freehostia.com
 outerglow.tk
@@ -88782,7 +88777,7 @@ pantsonaprox.info
 pantspooper.co.cc
 pantysurf.tk
 panxxx.uw.hu
-panyuxin.com/proxy/
+panyuxin.com
 panyyhh.xyz
 panzanlon.com
 panzend.xyz
@@ -88934,7 +88929,7 @@ partywall.tk
 pary.mobi
 pasajeros.org
 pasardadakan.co.cc
-pascalos2001.free.fr/proxy
+pascalos2001.free.fr
 pascole.gq
 paseoblast.tk
 pass-crowns.tk
@@ -89083,7 +89078,7 @@ passzone.info
 passzone.tk
 pastall.tk
 pasteadress.info
-pastebin.com/m12ab5fa6
+pastebin.com
 pastiberkahh.com
 pastidubai1.com
 pastidubai69.com
@@ -89138,25 +89133,7 @@ pathcore.tk
 pathdegree.co.cc
 pathmining.co.cc
 pathspeed.co.cc
-pathtofun.com/go.htm
-pathtofun.com/hidden.htm
-pathtofun.com/hiddens.htm
-pathtofun.com/hiden.htm
-pathtofun.com/hidens.htm
-pathtofun.com/im.htm
-pathtofun.com/proxi.htm
-pathtofun.com/proxia.htm
-pathtofun.com/proxib.htm
-pathtofun.com/proxic.htm
-pathtofun.com/proxiy.htm
-pathtofun.com/proxy08.htm
-pathtofun.com/proxyb.htm
-pathtofun.com/proxybst.htm
-pathtofun.com/proxybt.htm
-pathtofun.com/proxyi.htm
-pathtofun.com/school.htm
-pathtofun.com/spider.htm
-pathtofun.com/surf.htm
+pathtofun.com
 patients123.tk
 patiochaircushions.info
 patkfullywrongde.tk
@@ -89192,7 +89169,7 @@ pauproxy.info
 pav-lobe-z-rod-ny-8611.life
 pavsta.com
 pavsta.tk
-pavstaessentials.co.uk/filtax
+pavstaessentials.co.uk
 paw.wf
 pawking.net
 pawldis.info
@@ -89536,7 +89513,7 @@ penguinsurf.info
 penmax.info
 pennandteller.org
 penny-stocks-to-buy.tk
-pennyauctionlive.com/offline
+pennyauctionlive.com
 pennyinfo.tk
 pennypicks.tk
 pennystocksurfa.tk
@@ -89925,7 +89902,7 @@ php-web-proxy.com
 php15.com
 php1block.ed.mu
 php365.hostingsiteforfree.com
-phpages.cn/web
+phpages.cn
 phpapple.info
 phparmy.info
 phpbash.com
@@ -89966,9 +89943,9 @@ phpice.info
 phpkey.info
 phpking.info
 phpkiss.info
-phple.cn/web
+phple.cn
 phplion.info
-phplu.cn/proxy
+phplu.cn
 phpmafia.info
 phpmodel.info
 phpmonday.com
@@ -90141,13 +90118,13 @@ piktoor.com
 pileg.co.cc
 pileg.tk
 pileproxy.tk
-pilkingtondesign.com/cgiproxy/
+pilkingtondesign.com
 pillarstock.tk
 pillforex.co.cc
 pillmasters.info
 pillow.rscheme.org
 pillspro.com
-pimiento.info/proxy
+pimiento.info
 pimp-o-matic.co.cc
 pimpaproxy.com
 pimpinaprox.info
@@ -90798,7 +90775,7 @@ polestock.tk
 polestrong.co
 poletop.info
 poliasix.com
-police-video.com/p
+police-video.com
 policesaas.tk
 policescores.co.cc
 policetheworld.co.cc
@@ -92612,7 +92589,7 @@ protestanonymotk.tk
 protexproxy.info
 protitle.tk
 protocore.info
-protonerd.com/proxy/
+protonerd.com
 protonvpn.com
 protonvpn.net
 prototipefilter.tk
@@ -95290,6 +95267,7 @@ proxy.gifbar.cn
 proxy.gifbox.cn
 proxy.gifdonghua.cn
 proxy.giftbasketaffairs.com
+proxy.gigablast.org
 proxy.giswebservice.com
 proxy.global-avia.com
 proxy.globalecharge.com
@@ -96482,7 +96460,7 @@ proxy1.unblockblog.info
 proxy1.unblockhow.tk
 proxy1.yipo.org
 proxy1.yoof.info
-proxy10.cn/web
+proxy10.cn
 proxy10.info
 proxy100.gq
 proxy1001.info
@@ -102242,7 +102220,7 @@ pruxy.com
 prvt.mobi
 prw2.co.cc
 prx.3space.info
-prx.centrump2p.com/english/32
+prx.centrump2p.com
 prx.funnytvmoments.com
 prx.igcity.net
 prx.im
@@ -102360,7 +102338,7 @@ psalm31.info
 psalm32.info
 psalm36.info
 psalterium.clawed.info
-pscripting.org/proxy
+pscripting.org
 pscx.co.cc
 psee.io
 psfl.in
@@ -103067,6 +103045,7 @@ qr2.bz
 qrcd.org
 qrco.de
 qrcodedynamic.com
+qrcodes.io
 qrcodeveloper.com
 qrdb.co
 qresv3.tk
@@ -103550,7 +103529,7 @@ racoon3.com
 racti.tk
 radangtenggorokan.co.cc
 radarixo.com
-radarrat.com/proxy
+radarrat.com
 radau.tk
 radcamo.info
 rade-american-proxy.tk
@@ -103652,7 +103631,7 @@ raisethesurf.co.cc
 raisevirtue.tk
 raisinprox.info
 raisinproxy.info
-raister.cn/webproxy
+raister.cn
 rajaempat.tk
 rajalaki.co.cc
 rajamahjong.site
@@ -103724,7 +103703,7 @@ ranisurf.tk
 rank-high.co.cc
 rank-ptc.com
 rank.profliste.com
-rankbux.com/proxy
+rankbux.com
 rankbux.net
 ranked.mask.wtf.la
 rankgenius.live
@@ -104628,7 +104607,7 @@ regulerbypassblock.tk
 regulerunblock.info
 regulerunblock.tk
 regv.info
-regvac.cn/free/webproxy
+regvac.cn
 regzaproxy.co.cc
 rehabdrug.co.cc
 rehtek.live
@@ -104748,7 +104727,7 @@ remember-unblock.info
 remember8forex.tk
 rememberyou.info
 rememde.tk
-remi-holveck.fr/proxy/
+remi-holveck.fr
 remind-voyager.tk
 remindforex.co.cc
 remindmejoey.com
@@ -106630,7 +106609,7 @@ sanproxino.tk
 sanrenmu.tk
 sansfiltre.fr
 sanstreetprox.info
-santa.ignorelist.com/santaproxy
+santa.ignorelist.com
 santabanta.info
 santabanta.ws
 santabreak.co.cc
@@ -106913,7 +106892,7 @@ sch00lproxy.info
 schanelproxys6.tk
 scheduled-to.co.cc
 scheduledflights.info
-schematic.org/proxy.php
+schematic.org
 schemepass.tk
 schgofacebook.info
 schgofriendster.info
@@ -106925,7 +106904,7 @@ schhub.eu
 schicksurf.tk
 schlimmetwins.com
 schmid-landtechnik.at
-schnarre-monika.celebrityblog.net/cache.cgi
+schnarre-monika.celebrityblog.net
 schnell-adeexpresss.tk
 schnell-express.tk
 scholare-surf.info
@@ -107002,7 +106981,7 @@ schoolaccess.co.cc
 schoolaccess.eu
 schooladmin.info
 schoolagefun.info
-schoolalone.info/hideip.php
+schoolalone.info
 schoolandstuff.com
 schoolanonim.tk
 schoolape.com
@@ -107505,6 +107484,7 @@ scissor8proxy.tk
 scleansheets.tk
 sclimaxproxy.tk
 sclix.com
+scnv.io
 sconsutkrss.tk
 sconsutkrsssb7.tk
 scoo.info
@@ -107552,7 +107532,7 @@ scraplockproxy.tk
 scrapspeedline.tk
 scrapsurf.info
 scrapy.co
-scrapyarduk.co.uk/proxy/
+scrapyarduk.co.uk
 scratchmyglass.com
 scratchproxy.com
 scratchyherpeshow.com
@@ -107695,7 +107675,7 @@ searchandsurf.co.cc
 searchandwin.info
 searcharea.tk
 searcharena.info
-searcharticles.in/myspace
+searcharticles.in
 searchattic.com
 searchbaby.cf
 searchbaby.gq
@@ -108882,7 +108862,7 @@ severes6-proxynet.tk
 severino.info
 sevgi-sohbet.com
 sevgim.info
-sevillanaz.com/p1/
+sevillanaz.com
 sevletkp.myftp.org
 sevre.tk
 sewei.top
@@ -109055,7 +109035,7 @@ shadowbrowser.com
 shadowclick.com
 shadowcloack.com
 shadowcover.com
-shadowedlegion.com/proxy/index.php
+shadowedlegion.com
 shadowelite.info
 shadowfinance.tk
 shadowgrid.info
@@ -109103,7 +109083,7 @@ shameless-magazine.com
 shameon.co.cc
 shameproxy.info
 shampton.tk
-shangda.info/proxy
+shangda.info
 shanghaigrows.com
 shangnoq-iproxys.tk
 shangnoqiproxy.tk
@@ -109387,7 +109367,7 @@ shipworseservices6.tk
 shipwrecko.tk
 shirtpage.info
 shitcity.co.cc
-shitcunt.org/proxy/
+shitcunt.org
 shitlock.co.cc
 shiupsurf.info
 shivaproxy.tk
@@ -109798,6 +109778,7 @@ shunfilm.tk
 shuntbrain.tk
 shurl.be
 shurl.fr
+shurt.pw
 shutdownproxy.info
 shuthanging.cn
 shuttlebusexpress.com
@@ -110202,7 +110183,7 @@ singlewhiteninja.com
 singo.us.to
 singsurf.nz.gs
 sinhidenow.info
-sinhvienyduoc.com/pop/index.php
+sinhvienyduoc.com
 sini.la
 sink-in.info
 sinksurf.co.cc
@@ -110351,8 +110332,7 @@ siteproxyus.com
 siterance.info
 siterisk.info
 siterouter.info
-sites.google.com/site/unblockanywebsite/
-sites.google.com/site/unblockedgames
+sites.google.com
 sites5u5proxy.tk
 sites867proxy.tk
 sitesareblocked.info
@@ -110454,7 +110434,7 @@ sixmail.tk
 sixproxy.cn
 sixs-proxybests.tk
 sixsign-meangirls.tk
-sixsixfive665.com/site/
+sixsixfive665.com
 sixsproxy.tk
 sixsproxy5.tk
 sixsproxybests.tk
@@ -110467,7 +110447,7 @@ sjamankurs.com
 sjcfs.org
 sjev.info
 sjostudio.com
-sk-itnews.com/proxy
+sk-itnews.com
 sk.news
 sk4.info
 skagenshi.tk
@@ -110594,6 +110574,7 @@ skrewschool.com
 skrewskool.info
 skrijme.info
 skro.in
+skroc.pl
 skrun.ch
 sku.su
 skullflame.tk
@@ -110621,7 +110602,7 @@ skydiving-3.co.cc
 skydriveforstudents.com
 skye.to
 skyeunul.tk
-skyfast-maroc.com/proxy/index.php
+skyfast-maroc.com
 skyfast.ed.mu
 skyfirebrowser.info
 skyfirewall.info
@@ -112533,7 +112514,7 @@ speedlockedbypass.tk
 speedloggg.com
 speedlong.tk
 speedluck.tk
-speedmaroc.com/proxy/
+speedmaroc.com
 speedmaxalto.info
 speedmonth.info
 speedmyhide.tk
@@ -113318,7 +113299,7 @@ ssl-vpn.tk
 ssl.fibersurf.co.cc
 ssl.shatincollege.edu.hk
 ssl2014.cf
-ssl4.westserver.net/andrewtchin.whsites.net/andrewtchin/proxy/
+ssl4.westserver.net
 sslamazing.tk
 sslandsecurity.info
 sslanonym.tk
@@ -113361,7 +113342,7 @@ sslprxe.com
 sslpxy.tk
 sslsecureproxy.com
 sslsecurityserver.info
-sslsites.de/astalavista.box.sk
+sslsites.de
 sslsurf.info
 sslsurf.tk
 sslsurfc.tk
@@ -113506,7 +113487,7 @@ stareurope.ml
 stareurope.tk
 starflash.info
 starflights.co.cc
-stargate-game.eu/phproxy
+stargate-game.eu
 stargate.one
 stargateblog.tk
 stargemt.tk
@@ -113651,8 +113632,7 @@ stayhidden.net
 stayhidden.nz.gs
 stayhiddeninschool.info
 stayhide.com
-stayincognito.com/nph-proxy.cgi
-stayincognito.com/proxy.php
+stayincognito.com
 stayinschool.info
 stayinside.tk
 stayinvis.net
@@ -113667,7 +113647,7 @@ stayunblocked.com
 stayunder.info
 stayunlock.com
 stayunseen.com
-stb.tsukuba-ac.jp/webproxy
+stb.tsukuba-ac.jp
 stday.com
 stdcgiux.cityu.edu.hk
 steadfast-rockip.info
@@ -114481,7 +114461,7 @@ studywithus.info
 stuff-free.chat.ru
 stuff-unblocker.info
 stuff.vectro.com
-stuffearn.com/proxy/
+stuffearn.com
 stuffisee.com
 stuffproxy.net
 stuffschool.com
@@ -118595,7 +118575,7 @@ susaaquickcloaks8.tk
 suschoolproxy.tk
 suspectattempt.tk
 suspecte.tk
-suspendmy.info/?httpshere
+suspendmy.info
 suspensestock.co.cc
 suspforex.info
 suspiros.info
@@ -118693,7 +118673,7 @@ sweetdelicate.cn
 sweetdreaming.co.cc
 sweetglories.tk
 sweethacks.com
-sweethost.co.uk/proxy
+sweethost.co.uk
 sweetlabel.tk
 sweetline.info
 sweetline.tk
@@ -119159,7 +119139,7 @@ talx7-proxys.tk
 tamar.is
 tambahkan.tk
 tamloan.info
-tamloan.net/fastproxy
+tamloan.net
 tamloan.us
 tamloan.ws
 tamming.tk
@@ -119314,7 +119294,7 @@ tbju.info
 tbnr.info
 tcc.io
 tcch.ch
-tch-fq.healthless.info/m-y-s-p-a-c-e--f-i-x-e-d
+tch-fq.healthless.info
 tch-fq.husty.info
 tch-fq.stockville.info
 tchitchi.info
@@ -119339,7 +119319,7 @@ tdotproxy.com
 tdsmp.xyz
 tdy.lol
 te.profliste.com
-te01.techentrance.com/suspended.page/
+te01.techentrance.com
 te8.org
 teacascan.com
 teach-math.info
@@ -119412,25 +119392,7 @@ tech-able.info
 tech-board.co.uk
 tech-bypass.info
 tech-cure.info
-tech-faq.com/anonymous-proxy-list.shtml
-tech-faq.com/anonymous-proxy.shtml
-tech-faq.com/asproxy-proxies.shtml
-tech-faq.com/cgi-proxy-proxies.shtml
-tech-faq.com/free-proxy.shtml
-tech-faq.com/glype-proxies.shtml
-tech-faq.com/happy-proxy-proxies.shtml
-tech-faq.com/myspace-proxy.shtml
-tech-faq.com/new-proxies.shtml
-tech-faq.com/other-proxies.shtml
-tech-faq.com/phproxy-proxies.shtml
-tech-faq.com/popular-proxies.shtml
-tech-faq.com/proxy-browser.shtml
-tech-faq.com/proxy-sites.shtml
-tech-faq.com/proxy.shtml
-tech-faq.com/submit-proxy.shtml
-tech-faq.com/surrogafier-proxies.shtml
-tech-faq.com/what-is-a-proxy.shtml
-tech-faq.com/zelune-proxies.shtml
+tech-faq.com
 tech-faq.org
 tech-faq.tk
 tech-faq.usax.info
@@ -119440,8 +119402,7 @@ tech-proxi.cz.cc
 tech-urge.info
 tech-us.info
 tech.deants.com
-tech.groups.yahoo.com/group/hidden-men
-tech.groups.yahoo.com/group/proxylist4you
+tech.groups.yahoo.com
 tech.it.cx
 tech.oryn-cell.com
 tech.undo.it
@@ -120025,7 +119986,7 @@ testing.bhscovid.org
 testnetspeed.info
 testpilot.firefox.com
 testpilot.r53-2.services.mozilla.com
-testpredkoscilacza.pl/proxy/
+testpredkoscilacza.pl
 testproxy.ga
 testproxy.net.ru
 testproxynow.tk
@@ -120932,7 +120893,7 @@ theusonline.xyz
 theusproxy.com
 thevalid.eu
 thevalleyspring.xyz
-thevenue.net/anon/nph-proxy.cgi
+thevenue.net
 thevid.tk
 thevideoproxy.com
 theviolas.com
@@ -120954,7 +120915,7 @@ thewebsurfer.com
 thewebsurfer.tk
 thewebtunnel.com
 thewebunblocker.info
-thewheatbelly.com/proxy/
+thewheatbelly.com
 thewildsurf.info
 thewin.info
 thewind.tk
@@ -121276,7 +121237,7 @@ tiffanyandco-us.com
 tiffanyprx.info
 tiffanysurf.tk
 tifree.com
-tiger-host.com/proxy
+tiger-host.com
 tiger-proxy.tk
 tiger2proxy.tk
 tiger388.life
@@ -121974,7 +121935,7 @@ top-useed.tk
 top-webservers.com
 top.iandron.cn
 top.index.com.my
-top1-1.com/proxy/
+top1-1.com
 top100proxysites.com
 top10account.tk
 top10myspace.com
@@ -122423,7 +122384,7 @@ totalsurf.info
 totalsurffast.tk
 totalsurfing.co.cc
 totalsurfsearch.tk
-totaltv.biz/proxy/
+totaltv.biz
 totalunlock.co.uk
 totalupload.com
 totalwild.tk
@@ -123246,7 +123207,7 @@ tsaclan.com
 tsaclan.info
 tsaclan.net
 tsaminamina.co.cc
-tscholars.com/browser/
+tscholars.com
 tshake.com
 tsignore.tk
 tsmdesk.com
@@ -123981,7 +123942,7 @@ twittedhoops.co.cc
 twittednowz.co.cc
 twitter-bypass.info
 twitter-proxy.info
-twitter.com/proxysites
+twitter.com
 twitter1.info
 twitteranyplace.com
 twitteratwork.info
@@ -124120,7 +124081,7 @@ ual.fyi
 uamtasiaxsafeunblock.ml
 uanon.com
 uapanet.tk
-uapchat.n.nu/fast-proxy
+uapchat.n.nu
 uastocktrading.tk
 uasurf777777.tk
 ub-block-world.com
@@ -124285,7 +124246,7 @@ ugosurf.tk
 ugproxy.com
 uh9.net
 uhairstyle.com
-uhansiora.pl/proxy
+uhansiora.pl
 uhicha-pro.tk
 uhidden.info
 uhide.tk
@@ -124358,7 +124319,7 @@ uk-proxy12.ml
 uk-proxy12.tk
 uk-proxy13.cf
 uk-proxy13.ga
-uk-proxy13.gq/hfzt/
+uk-proxy13.gq
 uk-proxy13.ml
 uk-proxy13.tk
 uk-proxy14.cf
@@ -124571,7 +124532,7 @@ uksuper80-proxysusa.tk
 uksuper80proxy.tk
 uksuper80proxys.tk
 uksuper80proxysusa.tk
-uksupermall.com/myspaceproxy.asp
+uksupermall.com
 uksurf-foxdnspros.tk
 uksurf.info
 uksurf.tk
@@ -125306,7 +125267,7 @@ unblock.pazhan.net
 unblock.penguinice.info
 unblock.pethon.com
 unblock.pink
-unblock.pk/youtube/
+unblock.pk
 unblock.prink.md
 unblock.punked.us
 unblock.pw
@@ -128476,6 +128437,7 @@ url.xcode.no
 url0.in
 url1.in
 url1.invbrowse.com
+url1.io
 url10.org
 url2.in
 url2s.com
@@ -129038,9 +129000,8 @@ userpage.info
 userprox.info
 userproxy.com
 userproxy.info
-users.cjb.net/hidden4ever
-users.cjb.net/shadowstorm/
-users6.nofeehost.com/nugrind
+users.cjb.net
+users6.nofeehost.com
 userspeed.co.cc
 userweb.co.cc
 usesecureip.tk
@@ -130196,7 +130157,7 @@ virtualcode.tk
 virtualcore.tk
 virtualdancenow.info
 virtualdeck.info
-virtualdem.net/proxy/index.php
+virtualdem.net
 virtualdream.tk
 virtualforex.co.cc
 virtualforge.info
@@ -130468,7 +130429,7 @@ vnkjskjfhiuds.info
 vnl.vn
 vnlink.top
 vnlocker.info
-vnmaty.info/proxy
+vnmaty.info
 vnshortener.com
 vnuy.info
 vnypd.com
@@ -130993,7 +130954,7 @@ vsneak.info
 vsti.info
 vstu.info
 vsucs.sbs
-vt.net.pl/proxy/
+vt.net.pl
 vtaurl.com
 vtftn.com
 vtipstravelltkg-surfs.tk
@@ -131103,7 +131064,7 @@ w3bprox.info
 w3cache.daewoo.com.pl
 w3dir.org
 w3dv.com
-w3ec.com/proxy/
+w3ec.com
 w3n.us
 w3net.info
 w3privacy.com
@@ -131113,7 +131074,7 @@ w3proxy.info
 w3surfer.com
 w3t.org
 w4n.info
-w4r3zsh4r3.paypermeg.com/proxy
+w4r3zsh4r3.paypermeg.com
 w6h.net
 w6m.info
 w7u.net
@@ -131667,8 +131628,7 @@ web-bypass4u.com
 web-bypass4u.org
 web-clodus.tk
 web-connection.info
-web-consulting.fr/proxy/
-web-consulting.fr/proxy/proxy.php
+web-consulting.fr
 web-eatcorpsesuk.tk
 web-fast.com
 web-fiduciarybrowsingsweb.tk
@@ -131686,7 +131646,7 @@ web-justs432242.tk
 web-liberty.info
 web-liberty.tk
 web-life-goodssdek.tk
-web-list.net/proxy
+web-list.net
 web-miner.name
 web-miner.noip.me
 web-miner2.cu.cc
@@ -131996,7 +131956,7 @@ webdeapuestas.info
 webdefender10.info
 webdenis.gq
 webdenis.ml
-webdico.com/blue/
+webdico.com
 webdigi.info
 webdigital.info
 webdigraziosi1.com
@@ -132644,7 +132604,7 @@ websnag.info
 websneak.co.uk
 websneak.net
 websnork.com
-websocialjobs.com/pr/
+websocialjobs.com
 websofter.tk
 webspeedtux.tk
 webspeedtuxjusts.tk
@@ -132922,8 +132882,7 @@ wegetyou.info
 wegito.com
 wegito.info
 wegothere.info
-wehaslinks.com/proxies
-wehaslinks.com/proxy
+wehaslinks.com
 wehateschool.info
 wehavegamesz.tk
 wehavelearn.co.cc
@@ -134537,7 +134496,7 @@ wrumorsunbestblocks.tk
 wrumorsunblock.tk
 wrurewnzxc.tk
 wryfactor.com
-ws-studio.ru/forum
+ws-studio.ru
 ws.tc
 wsdxfn.com
 wsfw.net
@@ -134622,7 +134581,7 @@ wuxifinger.com
 wuxihold.com
 wuximi.tk
 wuxo.info
-wuzly.com/proxy/
+wuzly.com
 wvsysbio.org
 wvvld.com
 wvw.allowed.org
@@ -134797,6 +134756,7 @@ x-tunnel.info
 x-vip.info
 x-warrior.tk
 x.dynashell.org
+x.gd
 x.se
 x.webring.com
 x1.privateme.info
@@ -134967,7 +134927,7 @@ xiafei.tk
 xianchengzhi.cn
 xiangquxa.tk
 xianjic.tk
-xiaobeier.cn/free/webproxy
+xiaobeier.cn
 xiaobhei.tk
 xiaolike.tk
 xibe.info
@@ -135071,7 +135031,7 @@ xoftspyse.biz
 xoinproxy.tk
 xoli.info
 xolly.info
-xombra.com/proxy
+xombra.com
 xomtraydo.live
 xoom0-23.tk
 xoomconnect.info
@@ -135095,7 +135055,7 @@ xopen88.info
 xopen9.info
 xopolis.info
 xopox.tk
-xorer.com.cn/webproxy
+xorer.com.cn
 xortly.com
 xowi.info
 xowsh.info
@@ -135243,7 +135203,7 @@ xucz.com
 xudx.tk
 xuechaowaihui.com
 xugm.com
-xuhouru.cn/proxy/
+xuhouru.cn
 xuje.info
 xunblock.com
 xunblock.info
@@ -136747,7 +136707,7 @@ zeluneproxy.org
 zeluneproxy.uni.me
 zeluneproxy.us
 zelunetemplates.com
-zem4u.com/proxysurf/
+zem4u.com
 zen44.com
 zencloud.info
 zenconnect.tk
@@ -136803,7 +136763,7 @@ zeroprotocol.co.cc
 zeroproxy.com
 zeroproxy.gq
 zeroproxy.info
-zeropulse.net/PHProxy
+zeropulse.net
 zeroreborn.tk
 zerosense.info
 zeroshort.xyz
@@ -137193,7 +137153,7 @@ zumzets.tk
 zunblocker.com
 zunblockmyspace.com
 zunblocks-clicksexysas.tk
-zuneiscool.com/proxy
+zuneiscool.com
 zunemod.biz
 zunereactor.org
 zunesurf.tk

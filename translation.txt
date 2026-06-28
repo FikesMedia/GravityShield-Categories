@@ -2,13 +2,13 @@
 anglaisfacile.com
 babelfish.com
 babylon.com
-bing.com/translator
+bing.com
 deepl.com
 dict.cc
 fanyi.baidu.com
 freetranslation.com
-imtranslator.net/translation/
-la-conjugaison.nouvelobs.com/traducteur/
+imtranslator.net
+la-conjugaison.nouvelobs.com
 lexilogos.com
 libretranslate.com
 linguee.com
@@ -20,7 +20,7 @@ nicetranslator.com
 online-translator.com
 paralink.com
 reverso.net
-skynet.be/services/traduction
+skynet.be
 systran.fr
 systranet.com
 systransoft.com

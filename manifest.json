@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-27T22:09:30Z",
+  "generated_at": "2026-06-28T22:13:15Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 50644048
+      "size": 50842082
     },
     {
       "name": "abuse.txt",
@@ -11,47 +11,51 @@
     },
     {
       "name": "adobe.txt",
-      "size": 8446
+      "size": 8164
     },
     {
       "name": "ads.txt",
-      "size": 3719906
+      "size": 3716563
     },
     {
       "name": "adult1.txt",
-      "size": 94371822
+      "size": 94371807
     },
     {
       "name": "adult2.txt",
-      "size": 31239426
+      "size": 30182167
     },
     {
       "name": "ai.txt",
-      "size": 943
+      "size": 984
     },
     {
       "name": "app_updates.txt",
-      "size": 891
+      "size": 778
+    },
+    {
+      "name": "apps.json",
+      "size": 3464
     },
     {
       "name": "astrology.txt",
-      "size": 540
+      "size": 509
     },
     {
       "name": "audio_video_streaming.txt",
-      "size": 69654
+      "size": 66643
     },
     {
       "name": "banking_finance.txt",
-      "size": 109979
+      "size": 109948
     },
     {
       "name": "bitcoin_crypto.txt",
-      "size": 668814
+      "size": 668705
     },
     {
       "name": "blog.txt",
-      "size": 24486
+      "size": 24445
     },
     {
       "name": "bluesky.txt",
@@ -59,15 +63,15 @@
     },
     {
       "name": "celebrity.txt",
-      "size": 12864
+      "size": 12066
     },
     {
       "name": "chat.txt",
-      "size": 4410
+      "size": 4227
     },
     {
       "name": "cheat.txt",
-      "size": 3711
+      "size": 1584
     },
     {
       "name": "code_development.txt",
@@ -79,11 +83,11 @@
     },
     {
       "name": "dangerous_materials.txt",
-      "size": 1316
+      "size": 875
     },
     {
       "name": "dating.txt",
-      "size": 115227
+      "size": 115890
     },
     {
       "name": "ddos_network_attacks.txt",
@@ -95,23 +99,23 @@
     },
     {
       "name": "dns_over_http.txt",
-      "size": 103750
+      "size": 103745
     },
     {
       "name": "downloads_file_hosting.txt",
-      "size": 113244
+      "size": 113008
     },
     {
       "name": "drugs.txt",
-      "size": 513254
+      "size": 503607
     },
     {
       "name": "dynamic_dns.txt",
-      "size": 27606
+      "size": 27604
     },
     {
       "name": "educational_games.txt",
-      "size": 253
+      "size": 214
     },
     {
       "name": "facebook.txt",
@@ -127,19 +131,19 @@
     },
     {
       "name": "forums.txt",
-      "size": 3668
+      "size": 3473
     },
     {
       "name": "gambling.txt",
-      "size": 664819
+      "size": 665040
     },
     {
       "name": "games.txt",
-      "size": 607390
+      "size": 570771
     },
     {
       "name": "hacking_fraud.txt",
-      "size": 4389422
+      "size": 4389040
     },
     {
       "name": "instagram.txt",
@@ -147,23 +151,23 @@
     },
     {
       "name": "job_search.txt",
-      "size": 6765
+      "size": 1172523
     },
     {
       "name": "malware.txt",
-      "size": 19527181
+      "size": 20271160
     },
     {
       "name": "manga.txt",
-      "size": 18276
+      "size": 12536
     },
     {
       "name": "mobile_phone.txt",
-      "size": 898
+      "size": 857
     },
     {
       "name": "online_tools.txt",
-      "size": 2160598
+      "size": 2156536
     },
     {
       "name": "pandora.txt",
@@ -171,19 +175,19 @@
     },
     {
       "name": "piracy.txt",
-      "size": 106269
+      "size": 106273
     },
     {
       "name": "porn1.txt",
-      "size": 94371839
+      "size": 94371823
     },
     {
       "name": "porn2.txt",
-      "size": 31460804
+      "size": 31409681
     },
     {
       "name": "press.txt",
-      "size": 83119
+      "size": 83092
     },
     {
       "name": "religion.txt",
@@ -191,11 +195,11 @@
     },
     {
       "name": "remote_control.txt",
-      "size": 2745
+      "size": 2709
     },
     {
       "name": "scam.txt",
-      "size": 23805
+      "size": 23864
     },
     {
       "name": "school_productivity.txt",
@@ -203,11 +207,11 @@
     },
     {
       "name": "sexedu.txt",
-      "size": 612
+      "size": 462
     },
     {
       "name": "shopping.txt",
-      "size": 632702
+      "size": 632624
     },
     {
       "name": "smart_tv.txt",
@@ -215,11 +219,11 @@
     },
     {
       "name": "social_media.txt",
-      "size": 9546
+      "size": 9536
     },
     {
       "name": "sports.txt",
-      "size": 38239
+      "size": 38230
     },
     {
       "name": "spotify.txt",
@@ -227,7 +231,7 @@
     },
     {
       "name": "tech_general.txt",
-      "size": 2645
+      "size": 2595
     },
     {
       "name": "texas_dir_prohibited.txt",
@@ -235,11 +239,11 @@
     },
     {
       "name": "tiktok.txt",
-      "size": 95777
+      "size": 96572
     },
     {
       "name": "translation.txt",
-      "size": 3525
+      "size": 3469
     },
     {
       "name": "twitch.txt",
@@ -259,15 +263,15 @@
     },
     {
       "name": "vpn.txt",
-      "size": 200045
+      "size": 200058
     },
     {
       "name": "web_hosting.txt",
-      "size": 351
+      "size": 488
     },
     {
       "name": "webmail.txt",
-      "size": 6410
+      "size": 6297
     },
     {
       "name": "whatsapp.txt",

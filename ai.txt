@@ -4,7 +4,7 @@ andisearch.com
 anthropic.com
 aoyo.ai
 app.holmesbot.com
-arc.net/search
+arc.net
 ayesoul.com
 bard.google.com
 bolt.new
@@ -23,7 +23,8 @@ deepseek.com
 devv.ai
 doubao.com
 duck.ai
-exa.ai/search
+exa.ai
+failingfast.io
 fal.ai
 felo.ai
 gemini.google.com
@@ -36,8 +37,9 @@ hika.fyi
 huggingface.co
 iask.ai
 ithy.com
+janitorai.com
 jasper.ai
-kagi.com/fastgpt
+kagi.com
 khanmigo.ai
 kimi.ai
 komo.ai
@@ -55,6 +57,7 @@ oaistatic.com
 oaiusercontent.com
 omnexio.ai
 openai.com
+ordalie.com
 perplexity.ai
 phind.com
 pi.ai
@@ -70,7 +73,9 @@ thegigabrain.com
 thinkany.ai
 tiangong.cn
 typeset.io
+uncensored.com
 uncovr.app
+use.ai
 venice.ai
 writesonic.com
 x.ai

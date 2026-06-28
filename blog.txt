@@ -83,10 +83,10 @@ arnobonte.nl
 arrozconnori.net
 ashadedviewonfashion.com
 ashbaughonline.com
-asile-en-france.com/index.php
+asile-en-france.com
 atooblog.com
 atypik.net
-aufeminin.com/blog
+aufeminin.com
 aufsmowl.de
 aukroblog.cz
 authorsblogs.com
@@ -511,7 +511,7 @@ coyoteblog.com
 cpuangel.com
 crazyblog.ru
 creerunblog.fr
-cri.univ-tlse1.fr/tools/test_filtrage/blog/
+cri.univ-tlse1.fr
 crookedtimber.org
 crumpy.com
 cubiboy.blog.20minutes.fr

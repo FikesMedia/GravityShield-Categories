@@ -27,7 +27,7 @@ centrastage.net
 collab.woozy.eu.org
 connectwise.com
 copilot.com
-cri.univ-tlse1.fr/tools/test_filtrage/remote-control/
+cri.univ-tlse1.fr
 dameware.com
 dee.support
 deskshare.net

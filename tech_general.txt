@@ -112,7 +112,7 @@ clamwin.com
 confickerworkinggroup.org
 debian.org
 dnld.securitydwl.com
-download.cnet.com/malwarebytes-anti-malware
+download.cnet.com
 eset.com
 f-secure.com
 f-secure.fr
@@ -162,8 +162,8 @@ slackware.com
 sophos.com
 sourceforge.net
 stormshieldcs.eu
-sur-la-toile.com/roguekiller
-surlatoile.org/roguekiller
+sur-la-toile.com
+surlatoile.org
 symantec.com
 symantec.fr
 symantecliveupdate.com

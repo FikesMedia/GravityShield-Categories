@@ -15,7 +15,7 @@ anymail.kify.com
 aolchat.fr
 apennootje.nl
 apexmail.com
-apps.vol.at/tools/webmail/
+apps.vol.at
 aracer.com
 asurfer.com
 attivazionimail.aruba.it
@@ -46,7 +46,7 @@ coolyork.com
 copticmail.com
 correo.juntadeandalucia.es
 countermail.com
-cri.univ-tlse1.fr/tools/test_filtrage/webmail/
+cri.univ-tlse1.fr
 criptext.com
 dejanews.com
 dmailman.com
@@ -101,13 +101,13 @@ freemail.hu
 freemail.org.mk
 freemailguide.com
 freestart.hu
-globetrotter.net/gt/messagerie/
+globetrotter.net
 gmail.com
 gmail.google.com
 gmail.ru
 gmx.net
 hey.com
-home.pl/webmail
+home.pl
 home.se
 hotbox.ru
 hotdak.net
@@ -116,7 +116,7 @@ hotmail.fr
 hotmail.it
 hotmail.msn.com
 hushmail.com
-ifrance.com/js/mail
+ifrance.com
 ilema.net
 imailreader.com
 imap.ch
@@ -144,7 +144,7 @@ lemel.fr
 leonlai.net
 liberomail.libero.it
 login.aol.com
-login.europe.yahoo.com/config/mail
+login.europe.yahoo.com
 login.live.com
 login.passport.net
 login.yahoo.com
@@ -293,7 +293,7 @@ protonmail.com
 qmail.com
 quickemail.de
 rocketmail.com
-romandie.com/email/
+romandie.com
 runbox.com
 s-mail.com
 sendmail.cz
@@ -332,14 +332,14 @@ surimail.com
 survivormail.com
 swissmail.net
 tangolive.tango.lu
-terra.es/correo
+terra.es
 thedoghousemail.com
 tutanota.com
 ublaze.com
 ueberschuss.de
 ukr.net
 velnet.biz
-video2000.ch/webmail.asp
+video2000.ch
 vipmail.hu
 web.de
 webbasedemail.com

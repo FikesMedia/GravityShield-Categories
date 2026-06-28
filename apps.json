@@ -1,0 +1,209 @@
+{
+  "Adobe": [
+    "adobe.com",
+    "adobe.io",
+    "adobecc.com",
+    "adobelogin.com",
+    "behance.net"
+  ],
+  "Amazon": [
+    "amazon.com",
+    "amazonaws.com",
+    "ssl-images-amazon.com"
+  ],
+  "Amazon Prime Video": [
+    "aiv-cdn.net",
+    "media-amazon.com",
+    "primevideo.com",
+    "pv-cdn.net"
+  ],
+  "Apple": [
+    "apple.com",
+    "cdn-apple.com",
+    "icloud.com",
+    "mzstatic.com"
+  ],
+  "Brave Search": [
+    "brave.com",
+    "search.brave.com"
+  ],
+  "Canva": [
+    "canva-apps.com",
+    "canva.cn",
+    "canva.com"
+  ],
+  "ChatGPT": [
+    "chatgpt.com",
+    "oaistatic.com",
+    "oaiusercontent.com",
+    "openai.com"
+  ],
+  "Discord": [
+    "discord.com",
+    "discord.gg",
+    "discordapp.com",
+    "discordapp.net",
+    "discordcdn.com"
+  ],
+  "Disney+": [
+    "bamgrid.com",
+    "disney-plus.net",
+    "disneyplus.com",
+    "dssott.com"
+  ],
+  "Dropbox": [
+    "dropbox.com",
+    "dropboxapi.com",
+    "dropboxstatic.com"
+  ],
+  "Duolingo": [
+    "duolingo.cn",
+    "duolingo.com"
+  ],
+  "Facebook": [
+    "facebook.com",
+    "fbcdn.net",
+    "fbsbx.com",
+    "messenger.com"
+  ],
+  "GitHub": [
+    "github.com",
+    "github.io",
+    "githubassets.com",
+    "githubusercontent.com"
+  ],
+  "Gmail": [
+    "gmail.com",
+    "googlemail.com",
+    "mail.google.com"
+  ],
+  "Google": [
+    "google.com",
+    "googleapis.com",
+    "googleusercontent.com",
+    "gstatic.com"
+  ],
+  "Google Classroom": [
+    "classroom.google.com",
+    "classroom.googleapis.com"
+  ],
+  "Google Docs": [
+    "docs.google.com",
+    "docs.googleusercontent.com",
+    "drive.google.com"
+  ],
+  "Google Drive": [
+    "drive-thirdparty.googleusercontent.com",
+    "drive.google.com",
+    "googleusercontent.com"
+  ],
+  "Google Meet": [
+    "googlevideo.com",
+    "meet.google.com",
+    "meetings.googleapis.com"
+  ],
+  "Hulu": [
+    "hulu.com",
+    "huluim.com"
+  ],
+  "Instagram": [
+    "cdninstagram.com",
+    "instagr.am",
+    "instagram.com"
+  ],
+  "Kahoot": [
+    "kahoot.com",
+    "kahoot.it",
+    "kahootcdn.com"
+  ],
+  "Khan Academy": [
+    "kasandbox.org",
+    "kastatic.org",
+    "khanacademy.org"
+  ],
+  "Minecraft": [
+    "minecraft.net",
+    "minecraftservices.com",
+    "mojang.com"
+  ],
+  "Netflix": [
+    "netflix.com",
+    "nflxext.com",
+    "nflximg.net",
+    "nflxso.net",
+    "nflxvideo.net"
+  ],
+  "Outlook": [
+    "live.com",
+    "office.com",
+    "office365.com",
+    "outlook.com"
+  ],
+  "Pinterest": [
+    "pinimg.com",
+    "pinterest.com"
+  ],
+  "Quizlet": [
+    "quizlet.com",
+    "quizlet.live"
+  ],
+  "Reddit": [
+    "redd.it",
+    "reddit.com",
+    "redditmedia.com"
+  ],
+  "Roblox": [
+    "rbxcdn.com",
+    "roblox.com",
+    "robloxlabs.com"
+  ],
+  "Schoology": [
+    "powerschool.com",
+    "schoology.com"
+  ],
+  "Snapchat": [
+    "sc-cdn.net",
+    "snap-dev.net",
+    "snapchat.com"
+  ],
+  "Spotify": [
+    "scdn.co",
+    "spotify.com",
+    "spotifycdn.com"
+  ],
+  "Teams": [
+    "lync.com",
+    "skype.com",
+    "teams.live.com",
+    "teams.microsoft.com"
+  ],
+  "TikTok": [
+    "byteoversea.com",
+    "ibytedtos.com",
+    "musical.ly",
+    "tiktok.com",
+    "tiktokcdn.com"
+  ],
+  "Twitch": [
+    "jtvnw.net",
+    "ttvnw.net",
+    "twitch.tv"
+  ],
+  "Wikipedia": [
+    "wikimedia.org",
+    "wikimediafoundation.org",
+    "wikipedia.org"
+  ],
+  "YouTube": [
+    "googlevideo.com",
+    "youtu.be",
+    "youtube.com",
+    "youtubei.googleapis.com",
+    "ytimg.com"
+  ],
+  "Zoom": [
+    "zoom.com",
+    "zoom.us",
+    "zoomgov.com"
+  ]
+}

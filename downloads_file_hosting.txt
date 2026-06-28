@@ -1,6 +1,5 @@
 # Downloads & File Hosting
-01net.com/outils/telecharger
-01net.com/telecharger
+01net.com
 1000go.fr
 11mbit.de
 123-reg.co.uk
@@ -98,7 +97,7 @@ busyupload.com
 byclickdownloader.com
 casimages.com
 cba.pl
-chip.de/Downloads
+chip.de
 chomikuj.pl
 chungo.net
 cld.pt
@@ -107,12 +106,12 @@ clipconverter.cc
 clipser.com
 clipupload.com
 cloudshare.cz
-clubic.com/telecharger
+clubic.com
 cocoimage.com
 cocoshare.cc
 coedproxy.info
 come2store.com
-commentcamarche.net/download
+commentcamarche.net
 comparte.pe
 content-type.com
 convert2mp3.net
@@ -124,7 +123,7 @@ cramit.in
 cramitin.net
 crazefiles.com
 crazysharing.com
-cri.univ-tlse1.fr/tools/test_filtrage/filehosting/
+cri.univ-tlse1.fr
 cutedrive.com
 cyberdan.fr
 cybernetic1995.acc.de
@@ -134,6 +133,7 @@ daofile.com
 dardarkom.com
 datafilehost.com
 datafilehostfiles.com
+datanodes.to
 datapickup.com
 ddl-share.org
 deaddrops.com
@@ -205,8 +205,8 @@ esnips.com
 evilshare.com
 ex-load.com
 exbyte.net
-expert-only.com/outils/telechargements
-extremepc.fr/download
+expert-only.com
+extremepc.fr
 extremeshare.net
 ez-files.net
 ezyfile.net
@@ -367,6 +367,7 @@ giveawayoftheday.com
 glintfiles.net
 glowfoto.com
 go.zummm.com
+gofile.io
 gofilego.com
 goldfile.eu
 gopro4vn.com
@@ -397,7 +398,7 @@ hotfile.com
 hotlinkfiles.com
 hotlinkimage.com
 hotshare.net
-howcast.com/upload/
+howcast.com
 htpicturetrail.com
 hugedrive.com
 hulkload.com
@@ -462,6 +463,7 @@ img.nattawat.org
 img.tomatone.net
 img.xxfx.org
 imgarchive.info
+imgchest.com
 imghost.sk
 imgkk.com
 imgupload.adoosimg.com
@@ -479,11 +481,11 @@ istockphoto.com
 iwastemytime.com
 jaleco.com
 jawcloud.co
-jeanviet.info/telecharger
+jeanviet.info
 jetelecharge.com
 jeux.com
 jigsawshare.com
-journaldugeek.com/telecharger
+journaldugeek.com
 joydownload.com
 jpghosting.com
 jumbofiles.com
@@ -500,9 +502,10 @@ krakenfiles.com
 ksaupload.com
 kytec.com
 largeimagehost.com
+leechall.com
 leechking.com
 leetleech.org
-legratuit.com/telecharger
+legratuit.com
 lelogicielgratuit.com
 letitbit.net
 letsupload.com
@@ -530,8 +533,8 @@ malavida.com
 maloxy.info
 mannequinat2000.chez-alice.fr
 maxishare.net
-me.com/idisk
-media.filecabi.net/upload.html
+me.com
+media.filecabi.net
 mediafire.com
 mediapix.ru
 mega-debrid.eu
@@ -583,7 +586,7 @@ multiply.com
 multiup.org
 mundo-descargas.com
 mundoimg.com
-mx-dev.net/telecharger
+mx-dev.net
 mybloop.com
 myfilehut.com
 myfileshack.com
@@ -613,14 +616,14 @@ netu.tv
 neufgiga.com
 newgrounds.com
 nexmicrosystems.com
-nhjm.net/~pcdthebum/Upload/
+nhjm.net
 ninite.com
 nitroflare.com
 notblocked.hu.tl
 novamov.com
 nowvideo.eu
 nukeuploads.com
-numerama.com/telecharger
+numerama.com
 oldapps.com
 onfinite.com
 oniva.com
@@ -641,7 +644,7 @@ paid4share.net
 paintedover.com
 partage-fichiers.com
 pbase.com
-pc-infopratique.com/telecharger
+pc-infopratique.com
 peejeshare.com
 peerfactor.fr
 perushare.com
@@ -702,6 +705,7 @@ psychohost.com
 pushfile.net
 putfile.com
 putlocker.com
+pxeldrain.com
 qfile.de
 qshare.com
 quickdump.com
@@ -819,7 +823,7 @@ streamiz.com
 streamlare.com
 streamload.com
 streamupload.com
-stupidvideos.com/upload/
+stupidvideos.com
 sube.la
 subefotos.com
 subeimagenes.com.ar
@@ -831,7 +835,7 @@ subirimagen.net
 subirimagenes.com
 subiteya.com
 sugarsync.com
-sumo.tv/upload/
+sumo.tv
 superphotospace.com
 supload.com
 surfban.info
@@ -844,7 +848,7 @@ syncplicity.com
 tabulas.com
 tagstat.com
 takefile.link
-techspot.com/downloads
+techspot.com
 telecharger-programme.com
 telecharger.cnet.com
 telecharger.info
@@ -967,7 +971,7 @@ villagephotos.com
 vleech.net
 vobbo.com
 vodpod.com
-voila.fr/macle/
+voila.fr
 volafile.io
 vosfichiers.com
 vpx.pl
@@ -1021,7 +1025,7 @@ yousendit.com
 youshareit.com
 youtubeplaylist.cc
 zalil.ru
-zdnet.fr/telecharger
+zdnet.fr
 zettapremium.com
 ziddu.com
 zikuka.com
