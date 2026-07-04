@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-28T22:13:15Z",
+  "generated_at": "2026-07-04T01:54:50Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 50842082
+      "size": 50859972
     },
     {
       "name": "abuse.txt",
@@ -67,11 +67,11 @@
     },
     {
       "name": "chat.txt",
-      "size": 4227
+      "size": 4216
     },
     {
       "name": "cheat.txt",
-      "size": 1584
+      "size": 1567
     },
     {
       "name": "code_development.txt",
@@ -111,7 +111,7 @@
     },
     {
       "name": "dynamic_dns.txt",
-      "size": 27604
+      "size": 27612
     },
     {
       "name": "educational_games.txt",
@@ -139,7 +139,11 @@
     },
     {
       "name": "games.txt",
-      "size": 570771
+      "size": 570743
+    },
+    {
+      "name": "google_svc.txt",
+      "size": 86
     },
     {
       "name": "hacking_fraud.txt",
@@ -155,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 20271160
+      "size": 20323377
     },
     {
       "name": "manga.txt",
@@ -167,7 +171,7 @@
     },
     {
       "name": "online_tools.txt",
-      "size": 2156536
+      "size": 2156519
     },
     {
       "name": "pandora.txt",
@@ -203,7 +207,7 @@
     },
     {
       "name": "school_productivity.txt",
-      "size": 758
+      "size": 714
     },
     {
       "name": "sexedu.txt",
