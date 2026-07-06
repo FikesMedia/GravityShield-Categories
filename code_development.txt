@@ -1,3 +1,7 @@
 # Code & Development
 github.com
 go.dev
+marketplace.visualstudio.com
+server.codeium.com
+unleash.codeium.com
+update.code.visualstudio.com

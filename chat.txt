@@ -98,6 +98,7 @@ bonplanchat.com
 chaat.fr
 chapatiz.com
 chat-paradise.com
+chat.google.com
 chat.nrj.fr
 chat.org
 chat.ru
@@ -160,6 +161,7 @@ kmess.sourceforge.ne
 kolikoli.tk
 koolim.com
 laffer.sourceforge.net
+latency.discord.media
 leamonde.net
 lena-llm-test.s3.us-east-1.amazonaws.com
 livechat.aoscdn.com
@@ -208,6 +210,7 @@ msnanywhere.com
 msnfanatic.com
 msnger.com
 msnskins.be
+mtalk.google.com
 myoms.net
 ninemsn.com
 nootmobile.com
