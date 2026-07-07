@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T00:40:10Z",
+  "generated_at": "2026-07-07T02:35:21Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 67903266
+      "size": 67906456
     },
     {
       "name": "abuse.txt",
@@ -11,11 +11,11 @@
     },
     {
       "name": "adobe.txt",
-      "size": 8164
+      "size": 8156
     },
     {
       "name": "ads.txt",
-      "size": 7909329
+      "size": 7909315
     },
     {
       "name": "adult1.txt",
@@ -135,7 +135,7 @@
     },
     {
       "name": "gambling.txt",
-      "size": 4821169
+      "size": 4821151
     },
     {
       "name": "games.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 58211872
+      "size": 58227019
     },
     {
       "name": "manga.txt",
