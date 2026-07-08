@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T02:35:21Z",
+  "generated_at": "2026-07-08T04:36:59Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 67906456
+      "size": 68342886
     },
     {
       "name": "abuse.txt",
@@ -15,7 +15,7 @@
     },
     {
       "name": "ads.txt",
-      "size": 7909315
+      "size": 7910897
     },
     {
       "name": "adult1.txt",
@@ -135,7 +135,7 @@
     },
     {
       "name": "gambling.txt",
-      "size": 4821151
+      "size": 5010398
     },
     {
       "name": "games.txt",
@@ -147,7 +147,7 @@
     },
     {
       "name": "hacking_fraud.txt",
-      "size": 5662593
+      "size": 5779649
     },
     {
       "name": "instagram.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 58227019
+      "size": 58975163
     },
     {
       "name": "manga.txt",
@@ -183,11 +183,11 @@
     },
     {
       "name": "porn1.txt",
-      "size": 94371823
+      "size": 94371832
     },
     {
       "name": "porn2.txt",
-      "size": 36987291
+      "size": 37351996
     },
     {
       "name": "press.txt",
