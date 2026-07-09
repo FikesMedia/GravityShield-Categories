@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T04:36:59Z",
+  "generated_at": "2026-07-09T06:41:49Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 68342886
+      "size": 68368530
     },
     {
       "name": "abuse.txt",
@@ -15,7 +15,7 @@
     },
     {
       "name": "ads.txt",
-      "size": 7910897
+      "size": 7911003
     },
     {
       "name": "adult1.txt",
@@ -123,7 +123,7 @@
     },
     {
       "name": "fake_news.txt",
-      "size": 22960
+      "size": 23359
     },
     {
       "name": "fortnite.txt",
@@ -135,7 +135,7 @@
     },
     {
       "name": "gambling.txt",
-      "size": 5010398
+      "size": 5058130
     },
     {
       "name": "games.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 58975163
+      "size": 58995444
     },
     {
       "name": "manga.txt",
@@ -171,7 +171,7 @@
     },
     {
       "name": "online_tools.txt",
-      "size": 2156519
+      "size": 2156527
     },
     {
       "name": "pandora.txt",
@@ -183,11 +183,11 @@
     },
     {
       "name": "porn1.txt",
-      "size": 94371832
+      "size": 94371825
     },
     {
       "name": "porn2.txt",
-      "size": 37351996
+      "size": 37366002
     },
     {
       "name": "press.txt",
