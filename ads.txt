@@ -56958,7 +56958,6 @@ analytics.ceridwen.com
 analytics.ceriumsoft.com
 analytics.cert.pl
 analytics.certapet.com
-analytics.certifiedit.net
 analytics.certo-app.de
 analytics.cervellio.com
 analytics.cetteup.com
@@ -97481,7 +97480,6 @@ clientapi.clinkad.com
 clientcdn.pushengage.com
 clientcenter.api.bingads.microsoft.com
 clientcenter.api.sandbox.bingads.microsoft.com
-clientfd.family.microsoft.com
 clientgear.com
 clientjourney.optimove.net
 clientlimit.com
@@ -166566,7 +166564,6 @@ ip.live.fin.ag
 ip.liveryvideo.com
 ip.lovely-app.com
 ip.marquer.io
-ip.me
 ip.mktindex.com
 ip.moojing.com
 ip.mrfriday.com
@@ -226126,7 +226123,6 @@ notificacion.lifemiles.com
 notification-browser.com
 notification-browser.tools
 notification-center.kdanmobile.com
-notification-prod.svc.gearsofwar.net
 notification-system.tools
 notification-time.com
 notification.crittercism.com
@@ -304676,7 +304672,6 @@ stat.ferico.de
 stat.ferratec.ch
 stat.feustel.eu
 stat.ff.uni-lj.si
-stat.fi
 stat.fibi.co.il
 stat.fincabmedia.fi
 stat.finessum.com
@@ -316293,7 +316288,6 @@ struq.quantserve.com
 strwh.com
 stryde.com
 sts.advertising.microsoft.com
-sts.amazonaws.com
 sts.atlassolutions.com
 sts.batmobi.net
 sts.blr.com
@@ -316693,7 +316687,6 @@ subs.prod.vidible.tv
 subs.vidible.tv
 subscribe.hearstmags.com
 subscribe.test.novonordiskajotest.com
-subscribe.washingtonpost.com
 subscribedefinitionhosiery.com
 subscriber.smallbusinessstartup.com
 subscriberridenarcotic.com
@@ -350850,7 +350843,6 @@ wbidder311072023.com
 wbidder4.com
 wbidr.com
 wbilvnmool.com
-wbinsights.com
 wbiskyenhrwvx.website
 wbizijxdm.com
 wblacknet-224.top
@@ -351336,7 +351328,6 @@ web.f8.pyco.vn
 web.fe-vrier.com
 web.febrigent.com
 web.feuer-zeug.at
-web.global-e.com
 web.growthhubmedia.com
 web.hammacher.com
 web.hb.ad.cpe.dotomi.com
@@ -353145,7 +353136,6 @@ whatismyip.win
 whatismyip1.itsupport247.net
 whatismyip4.com
 whatismyipaddress.co.il
-whatismyipaddress.com
 whatismyipaddressnow.co
 whatismyiplookup.com
 whatismyippro.com

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-17T00:40:03Z",
+  "generated_at": "2026-07-18T03:28:39Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 68437927
+      "size": 68430842
     },
     {
       "name": "abuse.txt",
@@ -15,7 +15,7 @@
     },
     {
       "name": "ads.txt",
-      "size": 7911003
+      "size": 7910795
     },
     {
       "name": "adult1.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 59169978
+      "size": 59166816
     },
     {
       "name": "manga.txt",
@@ -183,11 +183,11 @@
     },
     {
       "name": "porn1.txt",
-      "size": 94371825
+      "size": 94371833
     },
     {
       "name": "porn2.txt",
-      "size": 37366002
+      "size": 37365983
     },
     {
       "name": "press.txt",
@@ -203,7 +203,7 @@
     },
     {
       "name": "scam.txt",
-      "size": 155189
+      "size": 155178
     },
     {
       "name": "school_productivity.txt",
@@ -271,7 +271,7 @@
     },
     {
       "name": "web_hosting.txt",
-      "size": 516
+      "size": 500
     },
     {
       "name": "webmail.txt",
