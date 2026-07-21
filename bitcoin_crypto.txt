@@ -5545,6 +5545,7 @@ adimg.qxlsjw.com
 adimg.uve.weibo.com
 adinfo.ra1.xlmc.sec.miui.com
 adirects.com
+adiri.tel
 adlaunch.moji.com
 adless.io
 adlog.flurry.com
@@ -26550,6 +26551,7 @@ toflvbkpwxcr.com
 toftofcal.com
 token.breadapp.com
 token.rubiconproject.com
+tokenist.com
 tokenmetrics.com
 tokenomics.app
 tokenpocket.pro

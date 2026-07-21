@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-20T09:03:06Z",
+  "generated_at": "2026-07-21T11:50:33Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 68447231
+      "size": 68861289
     },
     {
       "name": "abuse.txt",
@@ -15,7 +15,7 @@
     },
     {
       "name": "ads.txt",
-      "size": 7910795
+      "size": 7941708
     },
     {
       "name": "adult1.txt",
@@ -51,7 +51,7 @@
     },
     {
       "name": "bitcoin_crypto.txt",
-      "size": 670441
+      "size": 670464
     },
     {
       "name": "blog.txt",
@@ -135,7 +135,7 @@
     },
     {
       "name": "gambling.txt",
-      "size": 5058130
+      "size": 5963167
     },
     {
       "name": "games.txt",
@@ -147,7 +147,7 @@
     },
     {
       "name": "hacking_fraud.txt",
-      "size": 5779649
+      "size": 6313470
     },
     {
       "name": "instagram.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 59221962
+      "size": 59276009
     },
     {
       "name": "manga.txt",
