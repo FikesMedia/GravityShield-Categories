@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T06:43:54Z",
+  "generated_at": "2026-07-29T10:27:11Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 68894413
+      "size": 68904774
     },
     {
       "name": "abuse.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 59424742
+      "size": 59458310
     },
     {
       "name": "manga.txt",
