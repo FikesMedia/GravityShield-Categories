@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T04:14:58Z",
+  "generated_at": "2026-10-16T13:33:08Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 68926162
+      "size": 69179921
     },
     {
       "name": "abuse.txt",
@@ -19,11 +19,11 @@
     },
     {
       "name": "adult1.txt",
-      "size": 94371807
+      "size": 94371806
     },
     {
       "name": "adult2.txt",
-      "size": 30182167
+      "size": 30182175
     },
     {
       "name": "ai.txt",
@@ -87,7 +87,7 @@
     },
     {
       "name": "dating.txt",
-      "size": 115890
+      "size": 198997
     },
     {
       "name": "ddos_network_attacks.txt",
@@ -135,7 +135,7 @@
     },
     {
       "name": "gambling.txt",
-      "size": 5963167
+      "size": 6068634
     },
     {
       "name": "games.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 59515819
+      "size": 60181021
     },
     {
       "name": "manga.txt",
@@ -171,7 +171,7 @@
     },
     {
       "name": "online_tools.txt",
-      "size": 2156552
+      "size": 2156589
     },
     {
       "name": "pandora.txt",
@@ -271,7 +271,7 @@
     },
     {
       "name": "web_hosting.txt",
-      "size": 516
+      "size": 625
     },
     {
       "name": "webmail.txt",
