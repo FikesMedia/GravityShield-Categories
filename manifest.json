@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-16T13:33:08Z",
+  "generated_at": "2026-10-17T15:58:30Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 69179921
+      "size": 69186160
     },
     {
       "name": "abuse.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 60181021
+      "size": 60201130
     },
     {
       "name": "manga.txt",
@@ -171,7 +171,7 @@
     },
     {
       "name": "online_tools.txt",
-      "size": 2156589
+      "size": 2156598
     },
     {
       "name": "pandora.txt",
