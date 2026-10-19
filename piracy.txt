@@ -931,6 +931,7 @@ cuteyhoneyflash.de
 cwer.ws
 cyber12.com
 cyberbytez.cjb.net
+cyberia.is
 cybersnipaforum.com
 cyberwares.ru
 cyberwarez.info
@@ -2702,12 +2703,14 @@ open.acgnxtracker.com
 open.acgtracker.com
 open.demonii.com
 open.demonii.si
+open.dstud.io
 open.kickasstracker.com
 open.lolicon.eu
 open.nyaatorrents.info
 open.nyap2p.com
 open.stealth.si
 open.touki.ru
+open.tracker.cl
 open.tracker.thepiratebay.org
 openbittorrent.com
 openmyschool.info
@@ -2879,6 +2882,7 @@ pleasuredome.org.uk
 pleer.com
 pluckychat.fr
 plzalukaj.icu
+pmman.tech
 pmtorrents.com
 pobreflix.auction
 pobreflix.com
@@ -2893,6 +2897,7 @@ polishsource.org
 polishtracker.org
 polskitorrent.pl
 polycracks.com
+pomf.se
 popcdn.day
 popcorn-time.io
 popcorn-time.se
@@ -4020,6 +4025,7 @@ tracker-banzai.no-ip.org
 tracker-global.tclclouds.com
 tracker-mk.org
 tracker.0day.kiev.ua
+tracker.1337x.org
 tracker.36dm.com
 tracker.3arbya.com
 tracker.acgnx.se
@@ -4046,6 +4052,7 @@ tracker.bt4g.com
 tracker.btarena.org
 tracker.btsync.gq
 tracker.bz
+tracker.ccc.de
 tracker.cl
 tracker.clubb.ro
 tracker.conspiracycentral.net
@@ -4103,6 +4110,7 @@ tracker.mg64.net
 tracker.minglong.org
 tracker.mininova.org
 tracker.mitnet.ro
+tracker.moeblog.cn
 tracker.moeking.me
 tracker.moxing.party
 tracker.mundo-anime.org
@@ -4142,6 +4150,7 @@ tracker.sladinki007.net
 tracker.sloppyta.co
 tracker.slowcheetah.org
 tracker.sneakyvidz.com
+tracker.srv00.com
 tracker.stfu.ca
 tracker.stigalaria.org
 tracker.swateam.org.uk
@@ -4178,10 +4187,12 @@ tracker.wtf-no.com
 tracker.xplor.ro
 tracker.ydy.com
 tracker.ygsub.com
+tracker.yify-torrents.com
 tracker.yoshi210.com
 tracker.zaerc.com
 tracker.zer0day.to
 tracker.zerobytes.xyz
+tracker.zhuqiy.com
 tracker.zum.bi
 tracker1.itzmx.com
 tracker2.anime-destiny.org
