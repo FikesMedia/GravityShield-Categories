@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-20T23:43:20Z",
+  "generated_at": "2026-10-22T02:03:34Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 69250859
+      "size": 50207262
     },
     {
       "name": "abuse.txt",
@@ -18,16 +18,8 @@
       "size": 7941708
     },
     {
-      "name": "adult1.txt",
-      "size": 94371806
-    },
-    {
-      "name": "adult2.txt",
-      "size": 30182175
-    },
-    {
       "name": "ai.txt",
-      "size": 984
+      "size": 921
     },
     {
       "name": "app_updates.txt",
@@ -43,7 +35,7 @@
     },
     {
       "name": "audio_video_streaming.txt",
-      "size": 66643
+      "size": 66608
     },
     {
       "name": "banking_finance.txt",
@@ -51,7 +43,7 @@
     },
     {
       "name": "bitcoin_crypto.txt",
-      "size": 670464
+      "size": 670448
     },
     {
       "name": "blog.txt",
@@ -67,7 +59,7 @@
     },
     {
       "name": "chat.txt",
-      "size": 4271
+      "size": 4233
     },
     {
       "name": "cheat.txt",
@@ -87,7 +79,7 @@
     },
     {
       "name": "dating.txt",
-      "size": 198997
+      "size": 112989
     },
     {
       "name": "ddos_network_attacks.txt",
@@ -103,7 +95,7 @@
     },
     {
       "name": "downloads_file_hosting.txt",
-      "size": 113008
+      "size": 112933
     },
     {
       "name": "drugs.txt",
@@ -111,7 +103,7 @@
     },
     {
       "name": "dynamic_dns.txt",
-      "size": 27612
+      "size": 27604
     },
     {
       "name": "educational_games.txt",
@@ -123,7 +115,7 @@
     },
     {
       "name": "fake_news.txt",
-      "size": 23359
+      "size": 22960
     },
     {
       "name": "fortnite.txt",
@@ -135,11 +127,11 @@
     },
     {
       "name": "gambling.txt",
-      "size": 6241054
+      "size": 5963093
     },
     {
       "name": "games.txt",
-      "size": 570743
+      "size": 570047
     },
     {
       "name": "google_svc.txt",
@@ -155,15 +147,15 @@
     },
     {
       "name": "job_search.txt",
-      "size": 1172523
+      "size": 6737
     },
     {
       "name": "malware.txt",
-      "size": 60252465
+      "size": 58817195
     },
     {
       "name": "manga.txt",
-      "size": 12536
+      "size": 12493
     },
     {
       "name": "mobile_phone.txt",
@@ -171,7 +163,7 @@
     },
     {
       "name": "online_tools.txt",
-      "size": 2156598
+      "size": 2156392
     },
     {
       "name": "pandora.txt",
@@ -179,7 +171,7 @@
     },
     {
       "name": "piracy.txt",
-      "size": 106448
+      "size": 105857
     },
     {
       "name": "porn1.txt",
@@ -211,7 +203,7 @@
     },
     {
       "name": "sexedu.txt",
-      "size": 462
+      "size": 409
     },
     {
       "name": "shopping.txt",
@@ -267,11 +259,11 @@
     },
     {
       "name": "vpn.txt",
-      "size": 200058
+      "size": 200033
     },
     {
       "name": "web_hosting.txt",
-      "size": 625
+      "size": 336
     },
     {
       "name": "webmail.txt",

@@ -78,7 +78,6 @@
 72.36.146.44
 85.184.4.4
 8ch.net
-abdlchat.org
 adult-sex-chat.com
 aimexpress.oscar.aol.com
 airaim.com
@@ -263,7 +262,6 @@ teams.office.net
 thevirtualbrowser.com
 threema.ch
 toc.oscar.aol.com
-tochato.com
 toperkut.com
 trillian.cc
 trouter.io
@@ -284,5 +282,4 @@ webtal.com.br
 webuzztogether.com
 whatsapp.net
 x-chat.fr
-yesichat.com
 your-freedom.net
