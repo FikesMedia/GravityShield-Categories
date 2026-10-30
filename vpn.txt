@@ -5982,7 +5982,6 @@ vpnrapid.info
 vpnrapid8info.tk
 vpnrapidde-tkat.tk
 vpnrapidde-tkats.tk
-vpnrcmd.com
 vpnreactor.com
 vpnreactor.net
 vpnregister.cf
@@ -6010,7 +6009,6 @@ vpnshazam.com
 vpnshieldapp.com
 vpnside.com
 vpnsimple.info
-vpnsites.com
 vpnsky.info
 vpnsmart.info
 vpnsmilewith6proxysurfs.tk
