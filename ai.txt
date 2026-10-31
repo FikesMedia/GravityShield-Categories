@@ -24,6 +24,7 @@ devv.ai
 doubao.com
 duck.ai
 exa.ai
+failingfast.io
 fal.ai
 felo.ai
 gemini.google.com
@@ -36,6 +37,7 @@ hika.fyi
 huggingface.co
 iask.ai
 ithy.com
+janitorai.com
 jasper.ai
 kagi.com
 khanmigo.ai
@@ -55,6 +57,7 @@ oaistatic.com
 oaiusercontent.com
 omnexio.ai
 openai.com
+ordalie.com
 perplexity.ai
 phind.com
 pi.ai
@@ -70,7 +73,9 @@ thegigabrain.com
 thinkany.ai
 tiangong.cn
 typeset.io
+uncensored.com
 uncovr.app
+use.ai
 venice.ai
 writesonic.com
 x.ai
