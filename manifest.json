@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T23:03:54Z",
+  "generated_at": "2026-11-11T01:11:55Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 69363126
+      "size": 69356796
     },
     {
       "name": "abuse.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 60428057
+      "size": 60406197
     },
     {
       "name": "manga.txt",
@@ -171,7 +171,7 @@
     },
     {
       "name": "online_tools.txt",
-      "size": 2156613
+      "size": 2156627
     },
     {
       "name": "pandora.txt",
@@ -267,7 +267,7 @@
     },
     {
       "name": "vpn.txt",
-      "size": 200058
+      "size": 200071
     },
     {
       "name": "web_hosting.txt",
