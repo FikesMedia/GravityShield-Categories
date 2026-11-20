@@ -33,7 +33,6 @@ r2.dev
 replit.app
 rocketcdn.me
 sharemyhtml.com
-sigfrad.weebly.com
 softr.app
 squarespace.com
 statichost.page

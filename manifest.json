@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T18:37:52Z",
+  "generated_at": "2026-11-20T20:39:59Z",
   "artifacts": [
     {
       "name": "Latest_List.zip",
-      "size": 69408813
+      "size": 69425904
     },
     {
       "name": "abuse.txt",
@@ -115,7 +115,7 @@
     },
     {
       "name": "educational_games.txt",
-      "size": 214
+      "size": 228
     },
     {
       "name": "facebook.txt",
@@ -159,7 +159,7 @@
     },
     {
       "name": "malware.txt",
-      "size": 60565025
+      "size": 60618067
     },
     {
       "name": "manga.txt",
@@ -271,7 +271,7 @@
     },
     {
       "name": "web_hosting.txt",
-      "size": 657
+      "size": 638
     },
     {
       "name": "webmail.txt",
